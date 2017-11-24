@@ -1,0 +1,138 @@
+package testdata
+
+import (
+	"time"
+
+	kibner "github.com/deepilla/kibner/internal/types"
+)
+
+func Homecoming() *kibner.Feed {
+	return &kibner.Feed{
+		Title:  "Homecoming",
+		Author: "Gimlet",
+		Desc:   "A new psychological thriller from Gimlet Media, starring Catherine Keener, Oscar Isaac, and David Schwimmer.",
+		Type:   "rss",
+		URL:    "http://feeds.gimletmedia.com/homecomingshow",
+		Link:   "https://feeds.gimletmedia.com/show/homecoming",
+		Image:  "http://static.megaphone.fm/podcasts/ac3586dc-5f28-11e6-b7c8-a7b409afbab2/image/uploads_2F1498747958090-xaespi1l1rp-821bdefe3c81c2784c9306c9f140dadf_2FHomecoming-ShowArt-Final-web.png",
+		Items: []*kibner.Item{
+			{
+				Title:    "12. JOB",
+				Desc:     "That feeling you’re feeling? You’ll get used to it.",
+				Pubdate:  time.Date(2017, time.August, 23, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT9933674763.mp3?updated=1503343177",
+				Filesize: 56913502,
+				Duration: 2371 * time.Second,
+				GUID:     "fcf5afee-5134-11e7-a42c-57b30260a8f9",
+			},
+			{
+				Title:    "11. TIMEOUT",
+				Desc:     "Nobody has any idea what they’re doing. Ever.",
+				Pubdate:  time.Date(2017, time.August, 16, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT1591902062.mp3",
+				Filesize: 45809162,
+				Duration: 1908 * time.Second,
+				GUID:     "fce6501c-5134-11e7-a42c-d32ec1526df7",
+			},
+			{
+				Title:    "10. RECOVERY",
+				Desc:     "It’s complicated because you’re making it complicated.",
+				Pubdate:  time.Date(2017, time.August, 9, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT6907971193.mp3",
+				Filesize: 39519712,
+				Duration: 1646 * time.Second,
+				GUID:     "fcd7943c-5134-11e7-a42c-8b657c600066",
+			},
+			{
+				Title:    "9. BELIEVER",
+				Desc:     "You’ve got a target on your back. I could tell the moment I saw you.",
+				Pubdate:  time.Date(2017, time.August, 2, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT3583037956.mp3",
+				Filesize: 32477309,
+				Duration: 1353 * time.Second,
+				GUID:     "fcc774ee-5134-11e7-a42c-bff0c4ae1ecb",
+			},
+			{
+				Title:    "8. CIPHER",
+				Desc:     "Ooh, they authorized you.",
+				Pubdate:  time.Date(2017, time.July, 26, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT8543200376.mp3?updated=1500672015",
+				Filesize: 42596101,
+				Duration: 1774 * time.Second,
+				GUID:     "fcb724a4-5134-11e7-a42c-5f043c60fde7",
+			},
+			{
+				Title:    "7. TERMINATED",
+				Desc:     "I’m talking about very light pressure. Very discreet. I know who to call, totally professional guys.",
+				Pubdate:  time.Date(2017, time.July, 19, 10, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT8593681251.mp3",
+				Filesize: 37930422,
+				Duration: 1580 * time.Second,
+				GUID:     "fca409d2-5134-11e7-a42c-0b40ec777eb8",
+			},
+			{
+				Title:    "6. OPTIMISTS",
+				Desc:     "What happened to the aquarium? Do you feel like coming to work every day? I’m going to stop you there, okay?",
+				Pubdate:  time.Date(2016, time.December, 21, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT5438176684.mp3",
+				Filesize: 33917387,
+				Duration: 1413 * time.Second,
+				GUID:     "301df178-5fdd-11e6-bd51-93f2476be88b",
+			},
+			{
+				Title:    "5. HYSTERICAL",
+				Desc:     "Would you call this a date? The sequel is ten times as good as the original.",
+				Pubdate:  time.Date(2016, time.December, 14, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT3310192878.mp3",
+				Filesize: 36091611,
+				Duration: 1503 * time.Second,
+				GUID:     "301162f0-5fdd-11e6-bd51-17fb4896d74a",
+			},
+			{
+				Title:    "4. STOP HELPING",
+				Desc:     "Walter asks for an explanation. Colin asks for the pot roast.",
+				Pubdate:  time.Date(2016, time.December, 7, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT7237932984.mp3",
+				Filesize: 28781505,
+				Duration: 1199 * time.Second,
+				GUID:     "3006a522-5fdd-11e6-bd51-cfca1732cb38",
+			},
+			{
+				Title:    "3. PHONY",
+				Desc:     "A road trip. A simulation. A pivot. Another road trip. A viper’s nest.",
+				Pubdate:  time.Date(2016, time.November, 30, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT7639817637.mp3",
+				Filesize: 38633848,
+				Duration: 1609 * time.Second,
+				GUID:     "2ffdcf9c-5fdd-11e6-bd51-a3483468d540",
+			},
+			{
+				Title:    "2. PINEAPPLE",
+				Desc:     "Belfast is in Dubai. Palm trees are in Florida. A wheelchair is in the bathroom. The Titanic rises.",
+				Pubdate:  time.Date(2016, time.November, 23, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT4309792451.mp3",
+				Filesize: 31733133,
+				Duration: 1322 * time.Second,
+				GUID:     "2ff4d5fe-5fdd-11e6-bd51-476998ea0699",
+			},
+			{
+				Title:    "1. MANDATORY",
+				Desc:     "New clients arrive. A customer asks for the bill. The airport signage needs a lot of work. A bird wakes up in the Everglades.",
+				Pubdate:  time.Date(2016, time.November, 16, 11, 0, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT1855054370.mp3?updated=1479252758",
+				Filesize: 27895013,
+				Duration: 1162 * time.Second,
+				GUID:     "2feb0b64-5fdd-11e6-bd51-4f9de6fa1601",
+			},
+			{
+				Title:    "Preview",
+				Desc:     "A psychological thriller from Gimlet Media, starring Catherine Keener, Oscar Isaac, David Schwimmer, David Cross, and Amy Sedaris. Premieres Wednesday, November 16th.",
+				Pubdate:  time.Date(2016, time.October, 30, 15, 37, 0, 0, time.UTC),
+				URL:      "http://traffic.megaphone.fm/GLT6546565452.mp3",
+				Filesize: 3943444,
+				Duration: 164 * time.Second,
+				GUID:     "9dfdaf50-9ed8-11e6-8031-db4a6a0ebe91",
+			},
+		},
+	}
+}

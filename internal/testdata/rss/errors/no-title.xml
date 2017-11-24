@@ -1,0 +1,130 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <description>
+      <![CDATA[<p>A podcast by Basecamp about a better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners.</p>]]>
+    </description>
+    <managingEditor>hello@rework.fm (Rework)</managingEditor>
+    <copyright>© All Rights Reserved</copyright>
+
+    <link>https://rework.fm</link>
+    <itunes:owner>
+      <itunes:name>Rework</itunes:name>
+      <itunes:email>hello@rework.fm</itunes:email>
+    </itunes:owner>
+    <itunes:author>Basecamp</itunes:author>
+    <itunes:summary> A podcast by Basecamp about a better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners.</itunes:summary>
+    <language>en</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Business">
+      <itunes:category text="Business News" />
+    </itunes:category>
+    <itunes:category text="Arts">
+      <itunes:category text="Design" />
+    </itunes:category>
+    <itunes:keywords>entrepreneur,technology,business,design,small business</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+    <image>
+      <url>https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg</url>
+      <link>https://rework.fm</link>
+      <title>Rework</title>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/basecamp/rework" /><feedburner:info uri="basecamp/rework" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>© All Rights Reserved</media:copyright><media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" /><media:keywords>entrepreneur,technology,business,design,small business</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Business/Business News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Design</media:category><itunes:subtitle> A podcast by Basecamp about a better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners.</itunes:subtitle><item>
+      <title>03 - Pick A Fight (on Twitter)</title>
+      <description>
+        <![CDATA[<p>Basecamp CTO David Heinemeier Hansson is known for many things, including creating Ruby on Rails and writing business books. He also has a knack for arguing with people on the Internet. This cheerfully profane conversation explores how Twitter is like a virtual pillow to scream into and the role that extreme voices play in moving important conversations forward. We also relive some of David's memorable Twitter melees, including the one that got him blocked by Paul Graham.</p>]]>
+      </description>
+      <itunes:title>03 - Pick A Fight (on Twitter)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Basecamp CTO David Heinemeier Hansson is known for many things, including creating Ruby on Rails and writing business books. He also has a knack for arguing with people on the Internet. This cheerfully profane conversation explores how Twitter is like a virtual pillow to scream into and the role that extreme voices play in moving important conversations forward. We also relive some of David's memorable Twitter melees, including the one that got him blocked by Paul Graham.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Basecamp CTO David Heinemeier Hansson is known for many things, including creating Ruby on Rails and writing business books. He also has a knack for arguing with people on the Internet. This cheerfully profane conversation explores how Twitter is like a virtual pillow to scream into and the role that extreme voices play in moving important conversations forward. We also relive some of David's memorable Twitter melees, including the one that got him blocked by Paul Graham.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/4r8rZpBSOkQMYpB0e-K71awM6AbNgGwWB1yYeMqohYE</guid>
+      <pubDate>Tue, 12 Sep 2017 12:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+      <itunes:keywords>social media,twitter,small business,Entrepreneur,business,technology,design</itunes:keywords>
+      <itunes:duration>00:28:55</itunes:duration>
+
+    <media:content url="http://feedproxy.google.com/~r/basecamp/rework/~5/4dRxfaiKp7o/77508be1-639d-4d21-a838-6dc8bc2cb35e.mp3" fileSize="27760431" type="audio/mpeg" /><itunes:subtitle> Basecamp CTO David Heinemeier Hansson is known for many things, including creating Ruby on Rails and writing business books. He also has a knack for arguing with people on the Internet. This cheerfully profane conversation explores how Twitter is like a </itunes:subtitle><enclosure url="http://feedproxy.google.com/~r/basecamp/rework/~5/4dRxfaiKp7o/77508be1-639d-4d21-a838-6dc8bc2cb35e.mp3" length="27760431" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rss.art19.com/episodes/77508be1-639d-4d21-a838-6dc8bc2cb35e.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>02 - Workaholics Aren't Heroes</title>
+      <description>
+        <![CDATA[<p>Being tired isn't a badge of honor. There, we said it. We've been saying this for a while now, because our culture loves to glorify toiling long hours for its own sake and we think that leads to subpar work and general misery. In this episode, we talk to a veteran of the video game industry and a member of Basecamp's customer support team about workaholism and burnout. We also hear from a new business owner who's balancing mindfulness with the demands of starting her own meditation-focused company.</p>]]>
+      </description>
+      <itunes:title>02 - Workaholics Aren't Heroes</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Being tired isn't a badge of honor. There, we said it. We've been saying this for a while now, because our culture loves to glorify toiling long hours for its own sake and we think that leads to subpar work and general misery. In this episode, we talk to a veteran of the video game industry and a member of Basecamp's customer support team about workaholism and burnout. We also hear from a new business owner who's balancing mindfulness with the demands of starting her own meditation-focused company.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Being tired isn't a badge of honor. There, we said it. We've been saying this for a while now, because our culture loves to glorify toiling long hours for its own sake and we think that leads to subpar work and general misery. In this episode, we talk to a veteran of the video game industry and a member of Basecamp's customer support team about workaholism and burnout. We also hear from a new business owner who's balancing mindfulness with the demands of starting her own meditation-focused company.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/swCEXakdVEDQbhdznJJ0f0-C1ojW7fAWbnkZQMG6yHU</guid>
+      <pubDate>Tue, 29 Aug 2017 12:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+      <itunes:keywords>small business,Entrepreneur,business,meditation,technology,design,burnout,selfcare</itunes:keywords>
+      <itunes:duration>00:32:52</itunes:duration>
+
+    <media:content url="http://feedproxy.google.com/~r/basecamp/rework/~5/hYJu_xPRg7E/ca99d845-34be-49b6-88fb-d8dd5dee5517.mp3" fileSize="31561351" type="audio/mpeg" /><itunes:subtitle> Being tired isn't a badge of honor. There, we said it. We've been saying this for a while now, because our culture loves to glorify toiling long hours for its own sake and we think that leads to subpar work and general misery. In this episode, we talk to</itunes:subtitle><enclosure url="http://feedproxy.google.com/~r/basecamp/rework/~5/hYJu_xPRg7E/ca99d845-34be-49b6-88fb-d8dd5dee5517.mp3" length="31561351" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rss.art19.com/episodes/ca99d845-34be-49b6-88fb-d8dd5dee5517.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>01 - Sell Your By-products</title>
+      <description>
+        <![CDATA[<p>Welcome to the first episode of Rework! This podcast is based on Jason Fried and David Heinemeier Hansson's 2010 best-selling business book, which was itself based on years of blogging. So what better way to kick off this show than talking about byproducts? In this episode, Jason explains how Basecamp's ideas have been packaged as blog posts, workshops, and books. We also visit a 145-year-old sawmill in Ontario, Canada to see how this family-owned business sells its physical byproducts.</p>]]>
+      </description>
+      <itunes:title>01 - Sell Your By-products</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Welcome to the first episode of Rework! This podcast is based on Jason Fried and David Heinemeier Hansson's 2010 best-selling business book, which was itself based on years of blogging. So what better way to kick off this show than talking about byproducts? In this episode, Jason explains how Basecamp's ideas have been packaged as blog posts, workshops, and books. We also visit a 145-year-old sawmill in Ontario, Canada to see how this family-owned business sells its physical byproducts.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the first episode of Rework! This podcast is based on Jason Fried and David Heinemeier Hansson's 2010 best-selling business book, which was itself based on years of blogging. So what better way to kick off this show than talking about byproducts? In this episode, Jason explains how Basecamp's ideas have been packaged as blog posts, workshops, and books. We also visit a 145-year-old sawmill in Ontario, Canada to see how this family-owned business sells its physical byproducts.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/ElO45FaLvlp3ZI4hJcZpVpv_2wAYGMcMR4dWJrjkSgQ</guid>
+      <pubDate>Tue, 15 Aug 2017 12:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+      <itunes:keywords>publishing,manufacturing,small business,Entrepreneur,business,technology,design</itunes:keywords>
+      <itunes:duration>00:31:07</itunes:duration>
+
+    <media:content url="http://feedproxy.google.com/~r/basecamp/rework/~5/6m3PFvpdw34/33f6278f-cc8d-4694-b599-b237eebad022.mp3" fileSize="29878230" type="audio/mpeg" /><itunes:subtitle> Welcome to the first episode of Rework! This podcast is based on Jason Fried and David Heinemeier Hansson's 2010 best-selling business book, which was itself based on years of blogging. So what better way to kick off this show than talking about byproduc</itunes:subtitle><enclosure url="http://feedproxy.google.com/~r/basecamp/rework/~5/6m3PFvpdw34/33f6278f-cc8d-4694-b599-b237eebad022.mp3" length="29878230" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rss.art19.com/episodes/33f6278f-cc8d-4694-b599-b237eebad022.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Rework Teaser</title>
+      <description>
+        <![CDATA[<p>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</p>]]>
+      </description>
+      <itunes:title>Rework Teaser</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/FP72lI08fQa5uymp3rxmu_gTBY3uDNX2zCjMFebpzZc</guid>
+      <pubDate>Wed, 26 Jul 2017 20:42:14 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+      <itunes:keywords>small business,Entrepreneur,business,technology,design</itunes:keywords>
+      <itunes:duration>00:01:30</itunes:duration>
+
+    <media:content url="http://feedproxy.google.com/~r/basecamp/rework/~5/SUdV0TgEsh8/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3" fileSize="1446556" type="audio/mpeg" /><itunes:subtitle> Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behin</itunes:subtitle><enclosure url="http://feedproxy.google.com/~r/basecamp/rework/~5/SUdV0TgEsh8/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3" length="1446556" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rss.art19.com/episodes/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Rework Teaser</title>
+      <description>
+        <![CDATA[<p>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</p>]]>
+      </description>
+      <itunes:title>Rework Teaser</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behind the scenes at Basecamp with co-founders Jason Fried and David Heinemeier Hansson and bring you stories from business owners who have embraced bootstrapping, staying small, and growing slow.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/FP72lI08fQa5uymp3rxmu_gTBY3uDNX2zCjMFebpzZc</guid>
+      <pubDate>Wed, 26 Jul 2017 20:42:14 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/1d/c9/97/91/1dc99791-61f8-4e5b-b6a3-69bb542fb652/7a36227f38a6bea4d8ec172a982500cb5dde7967886a27b2dc8d87e4cc19bb3c8a508bd9cafd4fa9214d7f564b3f76706b912b54a1a7c8bc92825e2db21e5dd7.jpeg" />
+      <itunes:keywords>small business,Entrepreneur,business,technology,design</itunes:keywords>
+      <itunes:duration>00:01:30</itunes:duration>
+
+    <media:content url="http://feedproxy.google.com/~r/basecamp/rework/~5/SUdV0TgEsh8/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3" fileSize="1446556" type="audio/mpeg" /><itunes:subtitle> Rework is a podcast by the makers of Basecamp about a better way to work and run your business. While the prevailing narrative around successful entrepreneurship tells you to scale fast and raise money, we think there's a better way. We'll take you behin</itunes:subtitle><enclosure url="http://feedproxy.google.com/~r/basecamp/rework/~5/SUdV0TgEsh8/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3" length="1446556" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rss.art19.com/episodes/cfc2cc54-bb15-42f2-9e02-5d8708c7d6e4.mp3</feedburner:origEnclosureLink></item>
+  <media:credit role="author">Basecamp</media:credit><media:rating>nonadult</media:rating></channel>
+</rss>

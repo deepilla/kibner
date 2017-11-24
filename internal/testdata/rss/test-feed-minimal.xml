@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Minimal Feed</title>
+    <item>
+      <pubDate>Sun, 20 Sep 2015 19:05:38 -0600</pubDate>
+      <enclosure url="http://deepilla.com/assets/mp3/minimal-2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <enclosure url="http://deepilla.com/assets/mp3/minimal-1.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

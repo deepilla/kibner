@@ -1,0 +1,157 @@
+package testdata
+
+import (
+	"time"
+
+	kibner "github.com/deepilla/kibner/internal/types"
+)
+
+func Fish() *kibner.Feed {
+	return &kibner.Feed{
+		Title:  "No Such Thing As A Fish",
+		Author: "audioBoom",
+		Desc:   "A podcast from the QI offices in which the writers of the hit BBC show huddle around a microphone and discuss the best things they've found out this week. Hosted by Dan Schreiber (@schreiberland).",
+		Type:   "rss",
+		URL:    "https://audioboom.com/channels/2399216.rss",
+		Link:   "https://audioboom.com/channel/nosuchthingasafish",
+		Image:  "https://d15mj6e6qmt1na.cloudfront.net/i/24025650.jpg",
+		Items: []*kibner.Item{
+			{
+				Title:    "Episode 185: No Such Thing As Scottish Snow",
+				Desc:     "Andy, Anna, James and special guest Cariad Lloyd discuss Unity Mitford's BFFs, how planes (don't) cure deafness, and why you shouldn't eat Scottish show.",
+				Pubdate:  time.Date(2017, time.October, 6, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6369996-episode-185-no-such-thing-as-scottish-snow.mp3?source=rss&stitched=1",
+				Duration: 2980 * time.Second,
+				GUID:     "tag:audioboom.com,2017-10-06:/posts/6369996",
+			},
+			{
+				Title:    "Episode 184: No Such Thing As Dinosaur Diaries",
+				Desc:     "Dan, James, Anna and Andy discuss snakes that eat snakes, mathematical street performers, and the celebrity most likely to give you a virus.",
+				Pubdate:  time.Date(2017, time.September, 29, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6347716-episode-184-no-such-thing-as-dinosaur-diaries.mp3?source=rss&stitched=1",
+				Duration: 2529 * time.Second,
+				GUID:     "tag:audioboom.com,2017-09-29:/posts/6347716",
+			},
+			{
+				Title:    "Episode 183: No Such Thing As A Bouncy Theatre",
+				Desc:     "Dan, James, Andy and Alex discuss how to drive a submarine, Gainsborough's 6-foot-long paintbrushes, and where 1% of all the world's wood goes.",
+				Pubdate:  time.Date(2017, time.September, 22, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6325482-episode-183-no-such-thing-as-a-bouncy-theatre.mp3?source=rss&stitched=1",
+				Duration: 2021 * time.Second,
+				GUID:     "tag:audioboom.com,2017-09-22:/posts/6325482",
+			},
+			{
+				Title:    "Episode 182: No Such Thing As An Auction For Auction School",
+				Desc:     "Dan, Anna, Andy and special guest Jason Hazeley discuss the British Lawnmover Museum, questionnaires for narcissists, how Christie's auctioneers get over their nerves.",
+				Pubdate:  time.Date(2017, time.September, 15, 17, 0, 1, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6304535-episode-182-no-such-thing-as-an-auction-for-auction-school.mp3?source=rss&stitched=1",
+				Duration: 2010 * time.Second,
+				GUID:     "tag:audioboom.com,2017-09-15:/posts/6304535",
+			},
+			{
+				Title:    "Episode 181: No Such Thing As A Shark Vending Machine",
+				Desc:     "Dan, Anna, Andy and Alex discuss Spielberg's Great White Turd, maverick train carriages and how bird always know when they're in Aberdeen.",
+				Pubdate:  time.Date(2017, time.September, 8, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6282479-episode-181-no-such-thing-as-a-shark-vending-machine.mp3?source=rss&stitched=1",
+				Duration: 2192 * time.Second,
+				GUID:     "tag:audioboom.com,2017-09-08:/posts/6282479",
+			},
+			{
+				Title:    "Episode 180: No Such Thing As Playing Snake On A Plane",
+				Desc:     "Dan, James, Anna and Anne discuss Hitler's Beatles cameo, how lobsters fly, and the most surprising place to find John Goodman.",
+				Pubdate:  time.Date(2017, time.September, 1, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6261446-episode-180-no-such-thing-as-playing-snake-on-a-plane.mp3?source=rss&stitched=1",
+				Duration: 2025 * time.Second,
+				GUID:     "tag:audioboom.com,2017-09-01:/posts/6261446",
+			},
+			{
+				Title:    "Episode 179: No Such Thing As Stare-Boxing",
+				Desc:     "Dan, James, Anna and Alex discuss mail-order portraits, the first ever Encyclopaedia Britannica, and the country with only five star hotels.",
+				Pubdate:  time.Date(2017, time.August, 25, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6235486-episode-179-no-such-thing-as-stare-boxing.mp3?source=rss&stitched=1",
+				Duration: 1996 * time.Second,
+				GUID:     "tag:audioboom.com,2017-08-25:/posts/6235486",
+			},
+			{
+				Title:    "Episode 178: No Such Thing As A Cup Full Of Nessie",
+				Desc:     "Dan, James, Anna and Andy discuss your amazing expanding liver, the land of ex-presidents, and scientists disguised as mooses...or is that meese?",
+				Pubdate:  time.Date(2017, time.August, 18, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6217231-episode-178-no-such-thing-as-a-cup-full-of-nessie.mp3?source=rss&stitched=1",
+				Duration: 2657 * time.Second,
+				GUID:     "tag:audioboom.com,2017-08-18:/posts/6217231",
+			},
+			{
+				Title:    "Episode 177: No Such Thing As A Barking Spy",
+				Desc:     "Live from the Wilderness Festival, Dan, James, Anna and Andy discuss the invention of crowd barriers, bombs that lecture their victims, and Volkswagen's biggest product [hint: it's not cars].",
+				Pubdate:  time.Date(2017, time.August, 11, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6191301-episode-177-no-such-thing-as-a-barking-spy.mp3?source=rss&stitched=1",
+				Duration: 2597 * time.Second,
+				GUID:     "tag:audioboom.com,2017-08-11:/posts/6191301",
+			},
+			{
+				Title:    "Episode 176: No Such Thing As A Communist Caterpillar",
+				Desc:     "Dan, James, Anna and Andy discuss vomiting caterpillars, quarantined chocolate, and Russian news that's literally stored in the cloud.",
+				Pubdate:  time.Date(2017, time.August, 4, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6173105-episode-176-no-such-thing-as-a-communist-caterpillar.mp3?source=rss&stitched=1",
+				Duration: 2445 * time.Second,
+				GUID:     "tag:audioboom.com,2017-08-04:/posts/6173105",
+			},
+			{
+				Title:    "Episode 175: No Such Thing As A Rice Krispie With Feelings",
+				Desc:     "Dan, James, Anna and Andy discuss expert plastic sushi artists, the world's first bendy straws, and how fake dog noses help detect bombs.",
+				Pubdate:  time.Date(2017, time.July, 28, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6150593-episode-175-no-such-thing-as-a-rice-krispie-with-feelings.mp3?source=rss&stitched=1",
+				Duration: 2819 * time.Second,
+				GUID:     "tag:audioboom.com,2017-07-28:/posts/6150593",
+			},
+			{
+				Title:    "Episode 174: No Such Thing As A Manta Ray",
+				Desc:     "Dan, James, Anna and Andy discuss competitive tongue injuring, the popemobile for hire and Bogotan traffic mimes.",
+				Pubdate:  time.Date(2017, time.July, 21, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6128314-episode-174-no-such-thing-as-a-manta-ray.mp3?source=rss&stitched=1",
+				Duration: 2712 * time.Second,
+				GUID:     "tag:audioboom.com,2017-07-21:/posts/6128314",
+			},
+			{
+				Title:    "Episode 173: No Such Thing As Symphony For Sizzurp In D Minor",
+				Desc:     "Dan, James, Anna and Andy discuss weather-forecasting rainbows, Mexico's artistic tax policy and the mandatory Big Book of Tennis Rules.",
+				Pubdate:  time.Date(2017, time.July, 14, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6107603-episode-173-no-such-thing-as-symphony-for-sizzurp-in-d-minor.mp3?source=rss&stitched=1",
+				Duration: 2687 * time.Second,
+				GUID:     "tag:audioboom.com,2017-07-14:/posts/6107603",
+			},
+			{
+				Title:    "Episode 172: No Such Thing As A Cat-a-Cops Cartoon",
+				Desc:     "Dan, James, Anna and Andy discuss the police force for dead people, Indonesia's KFC CDs and Chinese mistress-dispellers.",
+				Pubdate:  time.Date(2017, time.July, 7, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6084820-episode-172-no-such-thing-as-a-cat-a-cops-cartoon.mp3?source=rss&stitched=1",
+				Duration: 3216 * time.Second,
+				GUID:     "tag:audioboom.com,2017-07-07:/posts/6084820",
+			},
+			{
+				Title:    "Episode 171: No Such Thing As A Half-Ape Vampire",
+				Desc:     "Dan, James, Anna and Andy discuss the man behind human chess, Agatha Christie's untranslatable book and deceitful camemberts.",
+				Pubdate:  time.Date(2017, time.June, 30, 17, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6062202-episode-171-no-such-thing-as-a-half-ape-vampire.mp3?source=rss&stitched=1",
+				Duration: 2529 * time.Second,
+				GUID:     "tag:audioboom.com,2017-06-30:/posts/6062202",
+			},
+			{
+				Title:    "Episode 170: No Such Thing As A Love Potion For A Vole",
+				Desc:     "Anna, James, Andy and Alex discuss stinking ice, smart seeds and the world's greatest fly swatters.",
+				Pubdate:  time.Date(2017, time.June, 23, 17, 30, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/6045291-episode-170-no-such-thing-as-a-love-potion-for-a-vole.mp3?source=rss&stitched=1",
+				Duration: 2640 * time.Second,
+				GUID:     "tag:audioboom.com,2017-06-23:/posts/6045291",
+			},
+			{
+				Title:    "Episode 1: No Such Thing As A Pilot Fish",
+				Desc:     "A new podcast from the writers of QI, who discuss the best facts they've found that week. The pilot episode features Dan Schreiber (@schreiberland), James Harkin (@eggshaped), Anna Ptaszynski (@qikipedia) & Andrew Hunter Murray (@andrewhunterm) For mo...",
+				Pubdate:  time.Date(2014, time.March, 8, 0, 0, 0, 0, time.UTC),
+				URL:      "https://audioboom.com/posts/4960884-episode-1-no-such-thing-as-a-pilot-fish.mp3?source=rss&stitched=1",
+				Duration: 2070 * time.Second,
+				GUID:     "tag:soundcloud,2010:tracks/138526614",
+			},
+		},
+	}
+}

@@ -1,0 +1,414 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.wired.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+
+	<channel>
+		<title>The Gadget Lab Podcast</title>
+		<atom:link href="https://www.wired.com/feed/podcast/gadget-lab" rel="self" type="application/rss+xml" />
+		<link>https://www.wired.com/</link>
+		<description>Inside the hottest personal tech stories of the week; mobile apps, gear, social networking, and entertainment.</description>
+		<lastBuildDate>Sat, 07 Oct 2017 14:00:09 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>© 2016 WIRED</copyright>
+		<itunes:subtitle>The latest tech news from WIRED.</itunes:subtitle>
+		<itunes:author>WIRED</itunes:author>
+		<googleplay:author>WIRED</googleplay:author>
+		<googleplay:email>radio@wired.com</googleplay:email>
+		<itunes:summary>Inside the hottest personal tech stories of the week; mobile apps, gear, social networking, and entertainment.</itunes:summary>
+		<googleplay:description>Inside the hottest personal tech stories of the week; mobile apps, gear, social networking, and entertainment.</googleplay:description>
+		<itunes:owner>
+			<itunes:name>WIRED</itunes:name>
+			<itunes:email>radio@wired.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+		<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/Gadget-Lab-Podcast-3000.jpg"></itunes:image>
+		<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/Gadget-Lab-Podcast-3000.jpg"></googleplay:image>
+		<image>
+			<url>https://www.wired.com/wp-content/uploads/2016/09/Gadget-Lab-Podcast-3000.jpg</url>
+			<title>The Gadget Lab Podcast</title>
+			<link>https://www.wired.com/</link>
+		</image>
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News"></itunes:category>
+		</itunes:category>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+		<item>
+			<title>Google Recap</title>
+			<link>https://www.wired.com/2017/10/gadget-lab-podcast-332/</link>
+			<pubDate>Thu, 05 Oct 2017 21:29:51 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2264829</guid>
+			<description><![CDATA[Google is now truly a hardware player, but it has a powerful AI software engine running across all of its gadgets.]]></description>
+			<itunes:subtitle><![CDATA[Google is now truly a hardware player, but it has a powerful AI software engine running across all of its gadgets.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>It was a big deal last year when Google came out with its own smartphone, the Pixel. Also one year ago, the tech giant released a smart home speaker and debuted the AI-powered Assistant that lives inside these new gadgets. Now it&#8217;s twelve months later, and Google is stepping on the gas. This week, we saw a new Android flagship phone, the Pixel 2. Also, two new Google Home speakers, a new Chromebook with a button to call the Assistant, some wireless earbuds called Pixel Buds with tap-to-talk functionality for Assistant, an AI-powered camera called Clips. Are we forgetting anything? Google is now truly a hardware player, but it has a powerful software engine running across all of its products. The hosts recap a busy week for the big G.</p>
+<p>Some notes: Everything Google announced <a href="https://www.wired.com/2017/10/everything-google-announced-2017-pixel-event/">in one place</a>. David&#8217;s <a href="https://www.wired.com/story/google-pixel-2-new-flagship-android-phone/">Pixel 2 story</a> has lots of details. Brian Barrett on Google&#8217;s <a href="https://www.wired.com/story/google-takes-assistants-fate-into-its-own-hands/">relationship with its hardware partners</a>. Tom Simonite on <a href="https://www.wired.com/story/siri-why-have-you-fallen-behind-other-digital-assistants/">Siri&#8217;s need to catch up</a>. David writes about how all of Google&#8217;s devices <a href="https://www.wired.com/story/googles-gadget-vision/">kinda do the same thing</a>. <a href="https://store.google.com/us/product/usb_c_headphone_adapter?hl=en-US">Pixel 2 USB-C dongles</a> for your headphones. Recommendations this week: <em><a href="http://www.foodnetwork.com/shows/the-great-food-truck-race">The Great Food Truck Race</a></em>, &#8220;<a href="https://www.wired.com/2017/10/elon-musk-rentals-song/">Elon Musk Is Making Me Sad</a>&#8221; by The Rentals, and <em><a href="http://www.maximumfun.org/shows/the-turnaround">The Turnaround</a></em> with Jesse Thorn. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[It was a big deal last year when Google came out with its own smartphone, the Pixel. Also one year ago, the tech giant released a smart home speaker and debuted the AI-powered Assistant that lives inside these new gadgets. Now it&#8217;s twelve months later, and Google is stepping on the gas. This week, we saw a new Android flagship phone, the Pixel 2. Also, two new Google Home speakers, a new Chromebook with a button to call the Assistant, some wireless earbuds called Pixel Buds with tap-to-talk functionality for Assistant, an AI-powered camera called Clips. Are we forgetting anything? Google is now truly a hardware player, but it has a powerful software engine running across all of its products. The hosts recap a busy week for the big G.
+Some notes: Everything Google announced in one place. David&#8217;s Pixel 2 story has lots of details. Brian Barrett on Google&#8217;s relationship with its hardware partners. Tom Simonite on Siri&#8217;s need to catch up. David writes about how all of Google&#8217;s devices kinda do the same thing. Pixel 2 USB-C dongles for your headphones. Recommendations this week: The Great Food Truck Race, &#8220;Elon Musk Is Making Me Sad&#8221; by The Rentals, and The Turnaround with Jesse Thorn. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[It was a big deal last year when Google came out with its own smartphone, the Pixel. Also one year ago, the tech giant released a smart home speaker and debuted the AI-powered Assistant that lives inside these new gadgets. Now it&#8217;s twelve months later, and Google is stepping on the gas. This week, we saw a new Android flagship phone, the Pixel 2. Also, two new Google Home speakers, a new Chromebook with a button to call the Assistant, some wireless earbuds called Pixel Buds with tap-to-talk functionality for Assistant, an AI-powered camera called Clips. Are we forgetting anything? Google is now truly a hardware player, but it has a powerful software engine running across all of its products. The hosts recap a busy week for the big G.
+Some notes: Everything Google announced in one place. David&#8217;s Pixel 2 story has lots of details. Brian Barrett on Google&#8217;s relationship with its hardware partners. Tom Simonite on Siri&#8217;s need to catch up. David writes about how all of Google&#8217;s devices kinda do the same thing. Pixel 2 USB-C dongles for your headphones. Recommendations this week: The Great Food Truck Race, &#8220;Elon Musk Is Making Me Sad&#8221; by The Rentals, and The Turnaround with Jesse Thorn. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2264829/gadget-lab-podcast-332.mp3" length="37036980" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>38:30</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>So Many Alexas</title>
+			<link>https://www.wired.com/2017/09/gadget-lab-podcast-331/</link>
+			<pubDate>Fri, 29 Sep 2017 20:17:46 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2263889</guid>
+			<description><![CDATA[This week, new hardware and software from Amazon, and Twitter goes long.]]></description>
+			<itunes:subtitle><![CDATA[This week, new hardware and software from Amazon, and Twitter goes long.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Amazon announced a raft of new hardware devices this week, from new Echo speakers and fun arcade buttons that plug into them, to a dangling-dongle version of the Fire TV. The one unifying thread all these devices have? Alexa. As Amazon&#8217;s voice assistant proliferates into more products, Amazon&#8217;s smart home empire grows. But can Alexa find its feet outside the home? David tells us what he saw when he visited the company in Seattle this week. Before that however, we&#8217;ve got 280 bones to pick with Twitter.</p>
+<p>Some notes: Meet the <a href="https://www.wired.com/story/amazon-introduces-a-prettier-bassier-echo/">newest Echo speakers</a>. Get a load of the <a href="https://www.wired.com/story/amazons-new-fire-tv-gives-alexa-one-more-place-to-live/">funny-lookin&#8217; Fire TV</a>. Learn some <a href="https://www.wired.com/story/how-to-get-the-most-out-of-your-amazon-echo-dot/">Echo tips and tricks</a>. Arielle charts the history of the <a href="https://www.wired.com/story/a-brief-history-of-the-ever-expanding-tweet/">ever-expanding tweet</a>. That thumping sound you hear throughout the show is David furiously banging on the table. Recommendations this week: <a href="https://www.newyorker.com/magazine/2017/09/18/the-risk-of-nuclear-war-with-north-korea">Evan Osnos on North Korea</a> in <em>The New Yorker</em>, the <a href="http://www.wnyc.org/shows/radiolabmoreperfect/"><em>More Perfect</em></a> podcast, and get yourself a damn <a href="http://a.co/1AJVthw">hard drive</a>. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Amazon announced a raft of new hardware devices this week, from new Echo speakers and fun arcade buttons that plug into them, to a dangling-dongle version of the Fire TV. The one unifying thread all these devices have? Alexa. As Amazon&#8217;s voice assistant proliferates into more products, Amazon&#8217;s smart home empire grows. But can Alexa find its feet outside the home? David tells us what he saw when he visited the company in Seattle this week. Before that however, we&#8217;ve got 280 bones to pick with Twitter.
+Some notes: Meet the newest Echo speakers. Get a load of the funny-lookin&#8217; Fire TV. Learn some Echo tips and tricks. Arielle charts the history of the ever-expanding tweet. That thumping sound you hear throughout the show is David furiously banging on the table. Recommendations this week: Evan Osnos on North Korea in The New Yorker, the More Perfect podcast, and get yourself a damn hard drive. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[Amazon announced a raft of new hardware devices this week, from new Echo speakers and fun arcade buttons that plug into them, to a dangling-dongle version of the Fire TV. The one unifying thread all these devices have? Alexa. As Amazon&#8217;s voice assistant proliferates into more products, Amazon&#8217;s smart home empire grows. But can Alexa find its feet outside the home? David tells us what he saw when he visited the company in Seattle this week. Before that however, we&#8217;ve got 280 bones to pick with Twitter.
+Some notes: Meet the newest Echo speakers. Get a load of the funny-lookin&#8217; Fire TV. Learn some Echo tips and tricks. Arielle charts the history of the ever-expanding tweet. That thumping sound you hear throughout the show is David furiously banging on the table. Recommendations this week: Evan Osnos on North Korea in The New Yorker, the More Perfect podcast, and get yourself a damn hard drive. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2263889/gadget-lab-podcast-331.mp3" length="50364000" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>52:23</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>Scenes From Cupertino</title>
+			<link>https://www.wired.com/2017/09/gadget-lab-podcast-330/</link>
+			<pubDate>Wed, 13 Sep 2017 01:58:49 +0000</pubDate>
+			<dc:creator>Michael Calore</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2262822</guid>
+			<description><![CDATA[We recap all of the news from Apple, offer analysis of the iPhone X, and give you advice about which iPhone to buy.]]></description>
+			<itunes:subtitle><![CDATA[We recap all of the news from Apple, offer analysis of the iPhone X, and give you advice about which iPhone to buy.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Apple announced a whole new crop of hardware Tuesday: Three iPhones, a new Apple TV, a new Watch, and some accessories to go with all of it. There are also new software tricks like Animoji (LOL) and Face ID (Hmmm). The hosts recap all of the news from Cupertino, offer analysis of the iPhone X, and give you advice about which iPhone to buy.</p>
+<p>Some notes: David&#8217;s <a href="https://www.wired.com/story/hands-on-with-the-iphone-x/">hands-on with the iPhone X</a>. Arielle&#8217;s roundup of <a href="https://www.wired.com/2017/09/everything-apple-announced-at-its-2017-iphone-event/">everything Apple announced</a> Tuesday. Andy Greenberg on the <a href="https://www.wired.com/story/iphone-x-faceid-security/">security of Face ID</a>. Recommendations this week: the <a href="https://store.qz.com/"><em>Objects</em></a> coffee table book, <a href="https://www.one-tab.com/">OneTab</a>, and <a rel="nofollow" href="https://www.amazon.com/dp/0307886115/?tag=w050b-20"><em>The Skies Belong to Us</em></a> by Brendan I. Koerner. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Apple announced a whole new crop of hardware Tuesday: Three iPhones, a new Apple TV, a new Watch, and some accessories to go with all of it. There are also new software tricks like Animoji (LOL) and Face ID (Hmmm). The hosts recap all of the news from Cupertino, offer analysis of the iPhone X, and give you advice about which iPhone to buy.
+Some notes: David&#8217;s hands-on with the iPhone X. Arielle&#8217;s roundup of everything Apple announced Tuesday. Andy Greenberg on the security of Face ID. Recommendations this week: the Objects coffee table book, OneTab, and The Skies Belong to Us by Brendan I. Koerner. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[Apple announced a whole new crop of hardware Tuesday: Three iPhones, a new Apple TV, a new Watch, and some accessories to go with all of it. There are also new software tricks like Animoji (LOL) and Face ID (Hmmm). The hosts recap all of the news from Cupertino, offer analysis of the iPhone X, and give you advice about which iPhone to buy.
+Some notes: David&#8217;s hands-on with the iPhone X. Arielle&#8217;s roundup of everything Apple announced Tuesday. Andy Greenberg on the security of Face ID. Recommendations this week: the Objects coffee table book, OneTab, and The Skies Belong to Us by Brendan I. Koerner. Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2262822/gadget-lab-podcast-330.mp3" length="57140096" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>1:07:57</itunes:duration>
+			<itunes:author>Michael Calore</itunes:author>
+		</item>
+		<item>
+			<title>Apple Preview</title>
+			<link>https://www.wired.com/2017/09/gadget-lab-podcast-329/</link>
+			<pubDate>Fri, 08 Sep 2017 17:50:39 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2261964</guid>
+			<description><![CDATA[The hosts open their iPhones and ask Siri to predict what's coming from Apple on Tuesday.]]></description>
+			<itunes:subtitle><![CDATA[The hosts open their iPhones and ask Siri to predict whats coming from Apple on Tuesday.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Apple is hosting a big iPhone launch event in Cupertino on September 12. David, Arielle, and Michael open up their iPhones and ask Siri to predict what&#8217;s coming on Tuesday. All the hosts have so far are rumors, leaks, and guesses, but that&#8217;s more than enough to get them excited.</p>
+<p>Some notes: David tells us <a href="https://www.wired.com/story/heres-what-to-expect-from-apples-big-fall-event/">what to expect</a> on Tuesday. Also from David, a sit-down with the Apple engineers trying to <a href="https://www.wired.com/story/how-apple-finally-made-siri-sound-more-human/">make Siri feel more human</a>. Liz talks to an artist who&#8217;s <a href="https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/">marrying sounds and visuals in AR kit</a> with groovy results. Recommendations this week:<br />
+<a rel="nofollow" href="https://www.amazon.com/dp/1501122207/?tag=w050b-20"><em>Not Quite a Genius</em></a> by Nate Dern, an <a rel="nofollow" href="https://www.amazon.com/dp/B006UKI8XK/?tag=w050b-20">Erlenmeyer flask</a> big enough to hold your wine, and the new podcast <a href="https://itunes.apple.com/us/podcast/origins-with-james-andrew-miller/id1266445999?mt=2"><em>Origins</em></a>.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Apple is hosting a big iPhone launch event in Cupertino on September 12. David, Arielle, and Michael open up their iPhones and ask Siri to predict what&#8217;s coming on Tuesday. All the hosts have so far are rumors, leaks, and guesses, but that&#8217;s more than enough to get them excited.
+Some notes: David tells us what to expect on Tuesday. Also from David, a sit-down with the Apple engineers trying to make Siri feel more human. Liz talks to an artist who&#8217;s marrying sounds and visuals in AR kit with groovy results. Recommendations this week:
+Not Quite a Genius by Nate Dern, an Erlenmeyer flask big enough to hold your wine, and the new podcast Origins.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[Apple is hosting a big iPhone launch event in Cupertino on September 12. David, Arielle, and Michael open up their iPhones and ask Siri to predict what&#8217;s coming on Tuesday. All the hosts have so far are rumors, leaks, and guesses, but that&#8217;s more than enough to get them excited.
+Some notes: David tells us what to expect on Tuesday. Also from David, a sit-down with the Apple engineers trying to make Siri feel more human. Liz talks to an artist who&#8217;s marrying sounds and visuals in AR kit with groovy results. Recommendations this week:
+Not Quite a Genius by Nate Dern, an Erlenmeyer flask big enough to hold your wine, and the new podcast Origins.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2261964/gadget-lab-podcast-329.mp3" length="34688558" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>41:13</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>Toy Wars</title>
+			<link>https://www.wired.com/2017/09/gadget-lab-podcast-328/</link>
+			<pubDate>Fri, 01 Sep 2017 19:17:15 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2261645</guid>
+			<description><![CDATA[It's a special Force Friday edition of the show this week, with guest Brendan Nystedt.]]></description>
+			<itunes:subtitle><![CDATA[Its a special Force Friday edition of the show this week, with guest Brendan Nystedt.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>It&#8217;s a special Force Friday II edition of the show this week, with guest Brendan Nystedt. Brendan is WIRED&#8217;s market editor, which means he spends his days here testing and recommending cool products. Also, he&#8217;s really into Star Wars; fortuitous considering this week is when all the toys for the next Star Wars film are released. Brendan tells Arielle and Mike how the Star Wars merchandising market has grown over the years, what surprises were unveiled in this week&#8217;s Force Friday toy announcements, and which Star Wars toy is the must-own item of the season.</p>
+<p>Some notes: Brendan rounds up <a href="https://www.wired.com/2017/08/best-star-wars-toys-can-buy-force-friday/" target="_blank">the best Force Friday Star Wars toys</a>. Here&#8217;s <a href="https://www.target.com/p/men-s-star-wars-174-alphabet-t-shirt/-/A-52280202">his shirt</a>. Brian Raftery&#8217;s <a href="https://www.wired.com/2017/07/ahmed-best-jar-jar-binks-new-podcast/">profile of Ahmed Best</a>, which is a must-read for all Star Wars fans. We all want a <a href="https://twitter.com/search?q=giant%20porg&#038;src=typd">giant porg</a>, but <a href="https://store.sphero.com/products/r2-d2">Sphero&#8217;s R2-D2</a> will freak out your cat.<br />
+Recommendations this week: <a href="http://starwars.wikia.com/wiki/Robot_Chicken:_Star_Wars">Robot Chicken Star Wars</a>, the <a rel="nofollow" href="https://www.amazon.com/dp/B0006ONQOC/?tag=w050b-20">Cuisinart ICE-30BC Pure Indulgence 2-Quart Automatic Frozen Yogurt, Sorbet, and Ice Cream Maker</a>, and <a rel="nofollow" href="https://www.amazon.com/dp/0316257443/?tag=w050b-20"><em>George Lucas: A Life</em></a> by Brian Jay Jones.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, Brendan Nystedt is <a href="https://twitter.com/bnystedt">@bnystedt</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[It&#8217;s a special Force Friday II edition of the show this week, with guest Brendan Nystedt. Brendan is WIRED&#8217;s market editor, which means he spends his days here testing and recommending cool products. Also, he&#8217;s really into Star Wars; fortuitous considering this week is when all the toys for the next Star Wars film are released. Brendan tells Arielle and Mike how the Star Wars merchandising market has grown over the years, what surprises were unveiled in this week&#8217;s Force Friday toy announcements, and which Star Wars toy is the must-own item of the season.
+Some notes: Brendan rounds up the best Force Friday Star Wars toys. Here&#8217;s his shirt. Brian Raftery&#8217;s profile of Ahmed Best, which is a must-read for all Star Wars fans. We all want a giant porg, but Sphero&#8217;s R2-D2 will freak out your cat.
+Recommendations this week: Robot Chicken Star Wars, the Cuisinart ICE-30BC Pure Indulgence 2-Quart Automatic Frozen Yogurt, Sorbet, and Ice Cream Maker, and George Lucas: A Life by Brian Jay Jones.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, Brendan Nystedt is @bnystedt, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[It&#8217;s a special Force Friday II edition of the show this week, with guest Brendan Nystedt. Brendan is WIRED&#8217;s market editor, which means he spends his days here testing and recommending cool products. Also, he&#8217;s really into Star Wars; fortuitous considering this week is when all the toys for the next Star Wars film are released. Brendan tells Arielle and Mike how the Star Wars merchandising market has grown over the years, what surprises were unveiled in this week&#8217;s Force Friday toy announcements, and which Star Wars toy is the must-own item of the season.
+Some notes: Brendan rounds up the best Force Friday Star Wars toys. Here&#8217;s his shirt. Brian Raftery&#8217;s profile of Ahmed Best, which is a must-read for all Star Wars fans. We all want a giant porg, but Sphero&#8217;s R2-D2 will freak out your cat.
+Recommendations this week: Robot Chicken Star Wars, the Cuisinart ICE-30BC Pure Indulgence 2-Quart Automatic Frozen Yogurt, Sorbet, and Ice Cream Maker, and George Lucas: A Life by Brian Jay Jones.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, Brendan Nystedt is @bnystedt, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how:
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2261645/gadget-lab-podcast-328.mp3" length="27362248" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>32:30</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>Note to Self</title>
+			<link>https://www.wired.com/2017/08/gadget-lab-podcast-327/</link>
+			<pubDate>Fri, 25 Aug 2017 16:56:26 +0000</pubDate>
+			<dc:creator>Michael Calore</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2260956</guid>
+			<description><![CDATA[On this week's Gadget Lab podcast, we run down the news on the Samsung Galaxy Note 8.]]></description>
+			<itunes:subtitle><![CDATA[On this weeks Gadget Lab podcast, we run down the news on the Samsung Galaxy Note 8.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Samsung&#8217;s newest phone, announced this week, is a very big deal—in both physical size and importance. We run down the news on the Galaxy Note 8. Everyone agrees that its release is a huge milestone for Samsung after the debacle of the Note 7. David loves what he&#8217;s seen so far, but Mike has concerns about the software, and Arielle would just like a phone that&#8217;s not bonkers-huge. Also, Arielle has a killer startup idea.</p>
+<p>Some notes (ha): David&#8217;s hands-on look at the new <a href="https://www.wired.com/story/samsung-galaxy-note-8-first-look/">Samsung Galaxy Note 8</a>. Our explainer on <a href="https://www.wired.com/2017/01/why-the-samsung-galaxy-note-7-kept-exploding/">why the Note 7 kept exploding</a>. See also our review of the <a href="https://www.wired.com/2017/04/samsung-galaxy-s8-hands-on/">Galaxy S8</a>, the new Note&#8217;s closest cousin. Recommendations this week: The film <a href="http://www.imdb.com/title/tt6032170/"><em>American Anarchist</em></a>, the book <a rel="nofollow" href="https://www.amazon.com/dp/006244137X/?tag=w050b-20"><em>Powerhouse</em></a> and <a href="https://www.kindsnacks.com/products/pressed-by-kind">Pressed by Kind</a> snacks.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+<h3>How to Listen</h3>
+<p>You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how.</p>
+<p>If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just <a href="https://itunes.apple.com/us/podcast/the-gadget-lab-podcast/id266391367?mt=2">tap this link</a>. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>If you use Android, you can find us in the Google Play Music app just by <a href="https://play.google.com/music/m/Iec5bnjozxz7wpye5n4m32mgsuu?t=The_Gadget_Lab_Podcast">tapping here</a>. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, <a href="https://www.wired.com/feed/podcast/gadget-lab">here&#8217;s the RSS feed</a>.</p>
+<p>We&#8217;re also <a href="https://soundcloud.com/wired">on Soundcloud</a>, and every episode gets <a href="https://www.wired.com/tag/gadget-lab-podcasts">posted to wired.com</a> as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, <a href="mailto:radio@wired.com">let us know</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Samsung&#8217;s newest phone, announced this week, is a very big deal—in both physical size and importance. We run down the news on the Galaxy Note 8. Everyone agrees that its release is a huge milestone for Samsung after the debacle of the Note 7. David loves what he&#8217;s seen so far, but Mike has concerns about the software, and Arielle would just like a phone that&#8217;s not bonkers-huge. Also, Arielle has a killer startup idea.
+Some notes (ha): David&#8217;s hands-on look at the new Samsung Galaxy Note 8. Our explainer on why the Note 7 kept exploding. See also our review of the Galaxy S8, the new Note&#8217;s closest cousin. Recommendations this week: The film American Anarchist, the book Powerhouse and Pressed by Kind snacks.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how.
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></itunes:summary>
+			<googleplay:description><![CDATA[Samsung&#8217;s newest phone, announced this week, is a very big deal—in both physical size and importance. We run down the news on the Galaxy Note 8. Everyone agrees that its release is a huge milestone for Samsung after the debacle of the Note 7. David loves what he&#8217;s seen so far, but Mike has concerns about the software, and Arielle would just like a phone that&#8217;s not bonkers-huge. Also, Arielle has a killer startup idea.
+Some notes (ha): David&#8217;s hands-on look at the new Samsung Galaxy Note 8. Our explainer on why the Note 7 kept exploding. See also our review of the Galaxy S8, the new Note&#8217;s closest cousin. Recommendations this week: The film American Anarchist, the book Powerhouse and Pressed by Kind snacks.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.
+How to Listen
+You can always listen to this week&#8217;s podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here&#8217;s how.
+If you&#8217;re on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+If you use Android, you can find us in the Google Play Music app just by tapping here. You can also download an app like Pocket Casts or Radio Public, and search for Gadget Lab. And in case you really need it, here&#8217;s the RSS feed.
+We&#8217;re also on Soundcloud, and every episode gets posted to wired.com as soon as it&#8217;s released. If you still can&#8217;t figure it out, or there&#8217;s another platform you use that we&#8217;re not on, let us know.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2260956/gadget-lab-podcast-327.mp3" length="42980090" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>51:06</itunes:duration>
+			<itunes:author>Michael Calore</itunes:author>
+		</item>
+		<item>
+			<title>New Phone, Who Dis?</title>
+			<link>https://www.wired.com/2017/08/gadget-lab-podcast-326/</link>
+			<pubDate>Fri, 18 Aug 2017 23:20:43 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2260382</guid>
+			<description><![CDATA[The Essential Android phone hits the market in a couple of weeks. Here's what you need to know about it.]]></description>
+			<itunes:subtitle><![CDATA[The Essential Android phone hits the market in a couple of weeks. Heres what you need to know about it.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>A new Android phone hits the market in a couple of weeks. Normally that&#8217;s unexciting news—Android phones are basically always raining from the sky. But this is the Essential phone, the first consumer product from the company co-founded by Andy Rubin, the man largely responsible for the Android operating system. So yeah, Essential&#8217;s debut hardware is a big deal. David Pierce has been covering Essential for months, and he tells us what to watch for in this sexy new handset offering.</p>
+<p>Some notes: David&#8217;s <a href="https://www.wired.com/2017/08/review-essential-phone/">review of the Essential phone</a>. Brendan Nystedt writes about the snap-on <a href="https://www.wired.com/story/essential-360-camera-hands-on/">360 camera accessory</a>. Also see David&#8217;s <a href="https://www.wired.com/2017/05/essential-andy-rubin/">deep dive into the phone&#8217;s development</a>, and his <a href="https://www.wired.com/story/inside-andy-rubins-quest-to-create-an-os-for-everything/">profile of Andy Rubin</a> where they discuss Ambient OS, as well as Essential&#8217;s larger ambitions. Recommendations this week: the <a href="https://www.wired.com/story/this-stress-free-fish-tank-lets-plants-do-the-cleaning/">Back to the Roots</a> aquaponics fish tank, the <a href="https://www.bioliteenergy.com/products/powerlight-mini">BioLite PowerLight Mini</a>, and <a href="https://www.youtube.com/watch?v=aPzvKH8AVf0"><em>Logan Lucky</em></a>.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[A new Android phone hits the market in a couple of weeks. Normally that&#8217;s unexciting news—Android phones are basically always raining from the sky. But this is the Essential phone, the first consumer product from the company co-founded by Andy Rubin, the man largely responsible for the Android operating system. So yeah, Essential&#8217;s debut hardware is a big deal. David Pierce has been covering Essential for months, and he tells us what to watch for in this sexy new handset offering.
+Some notes: David&#8217;s review of the Essential phone. Brendan Nystedt writes about the snap-on 360 camera accessory. Also see David&#8217;s deep dive into the phone&#8217;s development, and his profile of Andy Rubin where they discuss Ambient OS, as well as Essential&#8217;s larger ambitions. Recommendations this week: the Back to the Roots aquaponics fish tank, the BioLite PowerLight Mini, and Logan Lucky.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></itunes:summary>
+			<googleplay:description><![CDATA[A new Android phone hits the market in a couple of weeks. Normally that&#8217;s unexciting news—Android phones are basically always raining from the sky. But this is the Essential phone, the first consumer product from the company co-founded by Andy Rubin, the man largely responsible for the Android operating system. So yeah, Essential&#8217;s debut hardware is a big deal. David Pierce has been covering Essential for months, and he tells us what to watch for in this sexy new handset offering.
+Some notes: David&#8217;s review of the Essential phone. Brendan Nystedt writes about the snap-on 360 camera accessory. Also see David&#8217;s deep dive into the phone&#8217;s development, and his profile of Andy Rubin where they discuss Ambient OS, as well as Essential&#8217;s larger ambitions. Recommendations this week: the Back to the Roots aquaponics fish tank, the BioLite PowerLight Mini, and Logan Lucky.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2260382/gadget-lab-podcast-326.mp3" length="48635494" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>57:50</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>Mickey's Out</title>
+			<link>https://www.wired.com/2017/08/gadget-lab-podcast-325/</link>
+			<pubDate>Fri, 11 Aug 2017 18:40:29 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2259647</guid>
+			<description><![CDATA[This week: Disney ditches Netflix, bundles await, and Facebook makes TV now.]]></description>
+			<itunes:subtitle><![CDATA[This week: Disney ditches Netflix, bundles await, and Facebook makes TV now.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Disney says it&#8217;s going to pull most of its properties out of Netflix in 2019 and launch its own streaming platform. What that means for consumers (and their kids) is currently an unknown, but we have some guesses about what it means for Disney. WIRED&#8217;s news editor Brian Barrett joins the podcast this week to discuss the possible outcomes. Also, the hosts discuss the launch of Facebook Watch, and why the Facebook app on your smart TV might be worth exploring soon.</p>
+<p>Some notes: Adam Rogers writes about <a href="https://www.wired.com/story/disney-leaving-netflix/">Disney&#8217;s streaming future</a>. Brian Barrett on <a href="https://www.wired.com/story/disneys-magic-bench-fixes-ars-biggest-blind-spot/">Disney&#8217;s AR efforts</a>. Brian also wrote about <a href="https://www.wired.com/story/netflix-anime/">anime on Netflix</a>. Finally, read Peter Rubin on Netflix&#8217;s <a href="https://www.wired.com/story/netflix-global-expansion-summer/">recent acquisitions</a>. Recommendations this week are <a href="http://lifehacker.com/this-is-the-best-ios-app-for-simple-expense-tracking-1797431693">Expense</a>, the <a rel="nofollow" href="https://www.amazon.com/dp/B002SCUO04/?tag=w050b-20">Opinel No8 folding knife</a>, and <a href="https://www.whatifsports.com/locker/">What If Sports</a>.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Brian Barrett is <a href="https://twitter.com/brbarrett">@brbarrett</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Disney says it&#8217;s going to pull most of its properties out of Netflix in 2019 and launch its own streaming platform. What that means for consumers (and their kids) is currently an unknown, but we have some guesses about what it means for Disney. WIRED&#8217;s news editor Brian Barrett joins the podcast this week to discuss the possible outcomes. Also, the hosts discuss the launch of Facebook Watch, and why the Facebook app on your smart TV might be worth exploring soon.
+Some notes: Adam Rogers writes about Disney&#8217;s streaming future. Brian Barrett on Disney&#8217;s AR efforts. Brian also wrote about anime on Netflix. Finally, read Peter Rubin on Netflix&#8217;s recent acquisitions. Recommendations this week are Expense, the Opinel No8 folding knife, and What If Sports.
+Send the hosts feedback on their personal Twitter feeds. Brian Barrett is @brbarrett, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></itunes:summary>
+			<googleplay:description><![CDATA[Disney says it&#8217;s going to pull most of its properties out of Netflix in 2019 and launch its own streaming platform. What that means for consumers (and their kids) is currently an unknown, but we have some guesses about what it means for Disney. WIRED&#8217;s news editor Brian Barrett joins the podcast this week to discuss the possible outcomes. Also, the hosts discuss the launch of Facebook Watch, and why the Facebook app on your smart TV might be worth exploring soon.
+Some notes: Adam Rogers writes about Disney&#8217;s streaming future. Brian Barrett on Disney&#8217;s AR efforts. Brian also wrote about anime on Netflix. Finally, read Peter Rubin on Netflix&#8217;s recent acquisitions. Recommendations this week are Expense, the Opinel No8 folding knife, and What If Sports.
+Send the hosts feedback on their personal Twitter feeds. Brian Barrett is @brbarrett, David Pierce is @pierce, and Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2259647/gadget-lab-podcast-325.mp3" length="29522916" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>35:05</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>The iPhone of Cars</title>
+			<link>https://www.wired.com/2017/08/gadget-lab-podcast-324/</link>
+			<pubDate>Fri, 04 Aug 2017 19:20:21 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2259230</guid>
+			<description><![CDATA[We talk about the Tesla Model 3, the forthcoming iPhone, and how to spend that money burning a hole in your pocket.]]></description>
+			<itunes:subtitle><![CDATA[We talk about the Tesla Model 3, the forthcoming iPhone, and how to spend that money burning a hole in your pocket.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Got a grand burning a hole in your pocket? We&#8217;ve got two ideas for you. You could drop it on a preorder for the <a href="https://www.wired.com/story/tesla-model-3-more-than-electric/" target="_blank">Tesla Model 3</a>, the affordable electric car Elon Musk&#8217;s been building for a decade. Or you could buy the new iPhone Apple&#8217;s (probably) going to (likely) announce (reportedly) this fall. Michael and Arielle discuss both, first with Jack Stewart, who attended Tesla&#8217;s launch, and later with David Pierce, who has strong feelings about iPhone prices. Spoiler alert: Both new gizmos are cool, but so is a thousand bucks.</p>
+<p>Some notes: WIRED&#8217;s coverage of <a href="https://www.wired.com/tag/tesla" target="_blank">last week&#8217;s Model 3 launch</a>, which <a href="https://www.wired.com/story/i-drove-a-tesla-model-3/" target="_blank">Jack drove</a>. David&#8217;s piece on <a href="https://www.wired.com/story/a-super-expensive-iphone-is-good-news/" target="_blank">the super-expensive upcoming iPhone</a>. David&#8217;s recommendation: <a href="https://itunes.apple.com/us/app/wonderputt/id539499112?mt=8" target="_blank">Wonderputt</a>. Arielle&#8217;s recommendation: <a href="https://gimletmedia.com/show/reply-all/" target="_blank">Reply All</a>, especially the <a href="https://gimletmedia.com/episode/long-distance/" target="_blank">Long Distance</a> miniseries. Mike&#8217;s recommendation: <a rel="nofollow" href="https://www.amazon.com/dp/B00008GKDN/?tag=w050b-20" target="_blank">the Lodge L9OG3 cast-iron griddle</a>.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and fanny-pack-loving Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Got a grand burning a hole in your pocket? We&#8217;ve got two ideas for you. You could drop it on a preorder for the Tesla Model 3, the affordable electric car Elon Musk&#8217;s been building for a decade. Or you could buy the new iPhone Apple&#8217;s (probably) going to (likely) announce (reportedly) this fall. Michael and Arielle discuss both, first with Jack Stewart, who attended Tesla&#8217;s launch, and later with David Pierce, who has strong feelings about iPhone prices. Spoiler alert: Both new gizmos are cool, but so is a thousand bucks.
+Some notes: WIRED&#8217;s coverage of last week&#8217;s Model 3 launch, which Jack drove. David&#8217;s piece on the super-expensive upcoming iPhone. David&#8217;s recommendation: Wonderputt. Arielle&#8217;s recommendation: Reply All, especially the Long Distance miniseries. Mike&#8217;s recommendation: the Lodge L9OG3 cast-iron griddle.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and fanny-pack-loving Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></itunes:summary>
+			<googleplay:description><![CDATA[Got a grand burning a hole in your pocket? We&#8217;ve got two ideas for you. You could drop it on a preorder for the Tesla Model 3, the affordable electric car Elon Musk&#8217;s been building for a decade. Or you could buy the new iPhone Apple&#8217;s (probably) going to (likely) announce (reportedly) this fall. Michael and Arielle discuss both, first with Jack Stewart, who attended Tesla&#8217;s launch, and later with David Pierce, who has strong feelings about iPhone prices. Spoiler alert: Both new gizmos are cool, but so is a thousand bucks.
+Some notes: WIRED&#8217;s coverage of last week&#8217;s Model 3 launch, which Jack drove. David&#8217;s piece on the super-expensive upcoming iPhone. David&#8217;s recommendation: Wonderputt. Arielle&#8217;s recommendation: Reply All, especially the Long Distance miniseries. Mike&#8217;s recommendation: the Lodge L9OG3 cast-iron griddle.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and fanny-pack-loving Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2017/07/FEATURED-WIRED-Gear-logo.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2017/07/FEATURED-WIRED-Gear-logo.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2259230/gadget-lab-podcast-324.mp3" length="29379215" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>40:43</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+		<item>
+			<title>Muzzle Your Phone Before It Eats You Alive</title>
+			<link>https://www.wired.com/2017/07/gadget-lab-podcast-323/</link>
+			<pubDate>Fri, 28 Jul 2017 19:07:20 +0000</pubDate>
+			<dc:creator>Wired Staff</dc:creator>
+			<guid isPermaLink="false">https://www.wired.com/?p=2258718</guid>
+			<description><![CDATA[Notifications and how to kill them all, this week on the Gadget Lab Podcast.]]></description>
+			<itunes:subtitle><![CDATA[Notifications and how to kill them all, this week on the Gadget Lab Podcast.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>Ban notifications! Burn them with fire. So says David Pierce in <a href="https://www.wired.com/story/turn-off-your-push-notifications/" target="_blank">a story</a> this week urging readers to turn off all of their smartphone push notifications. It comes at a time when angst about attention is at an all-time high. The hosts discuss their experiences with silencing their notifications, and Tristan Harris&#8217;s theories about how to loosen the grip of always-on electronics. Also, the Meizu Pro 7, a new smartphone that puts a screen on the back to better display—you guessed it—notifications.</p>
+<p>Some notes: David&#8217;s story about <a href="https://www.wired.com/story/turn-off-your-push-notifications/" target="_blank">push notifications</a>. Tristan Harris&#8217;s <a href="https://www.youtube.com/watch?v=C74amJRp730">TED talk</a>. Nick Thompson&#8217;s recent <a href="https://www.wired.com/story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/">interview with Harris</a>. Liz Stinson looks at the dual-screen <a href="https://www.wired.com/story/when-one-screen-isnt-enough-try-meizus-two-screen-phone/" target="_blank">Meizu Pro 7</a>. Recommendations this week: Eliezer Yudkowsky&#8217;s <a href="http://www.hpmor.com/"><em>Harry Potter and the Methods of Rationality</em></a>, <a rel="nofollow" href="https://www.amazon.com/dp/B00H0NQE7S/?tag=w050b-20"><em>Screenwriting 101 by Film Crit Hulk</em></a>, and the <a href="https://roadrunnerbags.us/products/lil-guy-mini-pack">Lil&#8217; Guy Mini Pack</a> hip bag.</p>
+<p>Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is <a href="https://twitter.com/pardesoteric">@pardesoteric</a>, David Pierce is <a href="https://twitter.com/pierce">@pierce</a>, and fanny-pack-loving Michael Calore is <a href="https://twitter.com/snackfight">@snackfight</a>. Bling the main hotline at <a href="https://twitter.com/gadgetlab">@GadgetLab</a>.</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[Ban notifications! Burn them with fire. So says David Pierce in a story this week urging readers to turn off all of their smartphone push notifications. It comes at a time when angst about attention is at an all-time high. The hosts discuss their experiences with silencing their notifications, and Tristan Harris&#8217;s theories about how to loosen the grip of always-on electronics. Also, the Meizu Pro 7, a new smartphone that puts a screen on the back to better display—you guessed it—notifications.
+Some notes: David&#8217;s story about push notifications. Tristan Harris&#8217;s TED talk. Nick Thompson&#8217;s recent interview with Harris. Liz Stinson looks at the dual-screen Meizu Pro 7. Recommendations this week: Eliezer Yudkowsky&#8217;s Harry Potter and the Methods of Rationality, Screenwriting 101 by Film Crit Hulk, and the Lil&#8217; Guy Mini Pack hip bag.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and fanny-pack-loving Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></itunes:summary>
+			<googleplay:description><![CDATA[Ban notifications! Burn them with fire. So says David Pierce in a story this week urging readers to turn off all of their smartphone push notifications. It comes at a time when angst about attention is at an all-time high. The hosts discuss their experiences with silencing their notifications, and Tristan Harris&#8217;s theories about how to loosen the grip of always-on electronics. Also, the Meizu Pro 7, a new smartphone that puts a screen on the back to better display—you guessed it—notifications.
+Some notes: David&#8217;s story about push notifications. Tristan Harris&#8217;s TED talk. Nick Thompson&#8217;s recent interview with Harris. Liz Stinson looks at the dual-screen Meizu Pro 7. Recommendations this week: Eliezer Yudkowsky&#8217;s Harry Potter and the Methods of Rationality, Screenwriting 101 by Film Crit Hulk, and the Lil&#8217; Guy Mini Pack hip bag.
+Send the hosts feedback on their personal Twitter feeds. Arielle Pardes is @pardesoteric, David Pierce is @pierce, and fanny-pack-loving Michael Calore is @snackfight. Bling the main hotline at @GadgetLab.]]></googleplay:description>
+			<itunes:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></itunes:image>
+			<googleplay:image href="https://www.wired.com/wp-content/uploads/2016/09/FEATURED-WIRED-Gear-logo-NEW.jpg"></googleplay:image>
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/https://www.wired.com/podcast-download/2258718/gadget-lab-podcast-323.mp3" length="38883851" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>53:56</itunes:duration>
+			<itunes:author>Wired Staff</itunes:author>
+		</item>
+	</channel>
+</rss>

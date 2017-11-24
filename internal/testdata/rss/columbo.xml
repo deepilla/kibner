@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://www.columbopodcast.com/feed/podcast/" rel="self" type="application/rss+xml"/>
+		<title>Columbo</title>
+		<pubDate>Tue, 04 Jul 2017 18:16:32 +0000</pubDate>
+		<lastBuildDate>Fri, 25 Aug 2017 15:22:00 +0000</lastBuildDate>
+		<link>http://www.columbopodcast.com</link>
+		<language>en</language>
+		<copyright><![CDATA[© 2017 NBCUNIVERSAL MEDIA, LLC.]]></copyright>
+		<itunes:summary><![CDATA[Columbo is an American television series starring Peter Falk as Columbo, a homicide detective with the Los Angeles Police Department.]]></itunes:summary>
+        <image>
+            <title>Columbo</title>
+            <url>http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png</url>
+            <link>http://www.columbopodcast.com</link>
+        </image>
+		<itunes:author>Richard Levinson &amp; William Link</itunes:author>
+		<itunes:keywords>crime,drama,detective,fiction,thriller</itunes:keywords>
+        <itunes:category text="TV &amp; Film">
+        </itunes:category>
+		<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[NBCUNIVERSAL MEDIA, LLC.]]></itunes:name>
+			<itunes:email>contact@nbcuni.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[Columbo is an American television series starring Peter Falk as Columbo, a homicide detective with the Los Angeles Police Department. The character and show, created by Richard Levinson and William Link, popularized the inverted detective story format, which begins by showing the commission of the crime and its perpetrator. The plot revolves around how a perpetrator whose identity is already known to the audience will finally be caught and exposed.
+]]></description>
+		<itunes:subtitle><![CDATA[Columbo is an American television series starring Peter Falk as Columbo, a homicide detective with the Los Angeles Police Department.]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+	    <item>
+			<!-- Complete item -->
+			<title>Étude in Black</title>
+			<pubDate>17 Sep 1972 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S02E01]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Alex Benedict (John Cassavetes), the married conductor of the Los Angeles Philharmonic Orchestra, murders his mistress, Jennifer Welles (Anjanette Comer), after she insists on going public with their affair. ]]></description>
+			<content:encoded><![CDATA[Alex Benedict (John Cassavetes), the married conductor of the Los Angeles Philharmonic Orchestra, murders his mistress, Jennifer Welles (Anjanette Comer), after she insists on going public with their affair.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s02e01.mp3" />
+			<itunes:duration>98:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Alex Benedict (John Cassavetes), the married conductor of the Los Angeles Philharmonic Orchestra, murders his mistress, Jennifer Welles (Anjanette Comer), after she insists on going public with their affair. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Missing Description -->
+			<title>Blueprint for Murder</title>
+			<pubDate>9 Feb 1972 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S01E07]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<content:encoded><![CDATA[Elliot Markham (Patrick O'Neal) is an architect with a vision for a city of the future, and a penchant for classical music. His latest project is being bankrolled by the young wife of Beau Williamson (Forrest Tucker), a wealthy industrialist who has been away on a lengthy overseas business trip. When Williamson returns and finds out how his money is being spent, he is furious, and intends to cut off the funds. Markham decides that the only way he can continue his work is to eliminate Williamson. ]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s01e07.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	    <item>
+            <!-- Missing Title -->
+			<pubDate>19 Jan 1972 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S01E06]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Roger Stanford (Roddy McDowall) is a chemist and photography buff whose uncle, David (James Gregory), has taken over a business that his parents built and his aunt (Ida Lupino) controls. David proposes selling the business to a conglomerate in return for a seat on the board of directors, then tries to blackmail Roger into resigning. Roger decides to murder his uncle with a box of exploding cigars. ]]></description>
+			<content:encoded><![CDATA[Roger Stanford (Roddy McDowall) is a chemist and photography buff whose uncle, David (James Gregory), has taken over a business that his parents built and his aunt (Ida Lupino) controls. David proposes selling the business to a conglomerate in return for a seat on the board of directors, then tries to blackmail Roger into resigning. Roger decides to murder his uncle with a box of exploding cigars.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s01e06.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Roger Stanford (Roddy McDowall) is a chemist and photography buff whose uncle, David (James Gregory), has taken over a business that his parents built and his aunt (Ida Lupino) controls. David proposes selling the business to a conglomerate in return for a seat on the board of directors, then tries to blackmail Roger into resigning. Roger decides to murder his uncle with a box of exploding cigars. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Missing GUID -->
+			<title>Lady in Waiting</title>
+			<pubDate>15 Dec 1971 20:30:00 -0500</pubDate>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Beth Chadwick (Susan Clark) murders her domineering older brother, Bryce (Richard Anderson), after he attempts to break up her relationship with one of his executives, Peter (played by Leslie Nielsen). His mailing a letter threatening to terminate Peter's employment if he didn't break things off with Beth causes her to reach the tipping point and act to gain control of her own life and, it turns out, the family business. ]]></description>
+			<content:encoded><![CDATA[Beth Chadwick (Susan Clark) murders her domineering older brother, Bryce (Richard Anderson), after he attempts to break up her relationship with one of his executives, Peter (played by Leslie Nielsen). His mailing a letter threatening to terminate Peter's employment if he didn't break things off with Beth causes her to reach the tipping point and act to gain control of her own life and, it turns out, the family business.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s01e05.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Beth Chadwick (Susan Clark) murders her domineering older brother, Bryce (Richard Anderson), after he attempts to break up her relationship with one of his executives, Peter (played by Leslie Nielsen). His mailing a letter threatening to terminate Peter's employment if he didn't break things off with Beth causes her to reach the tipping point and act to gain control of her own life and, it turns out, the family business. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Invalid pubdate -->
+			<title>Suitable for Framing</title>
+			<pubDate>17th Nov 1971 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S01E04]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Art critic Dale Kingston (Ross Martin) murders his uncle and tries to frame his aunt (Kim Hunter), to obtain what is considered to be one of the most valuable art collections in the world. ]]></description>
+			<content:encoded><![CDATA[Art critic Dale Kingston (Ross Martin) murders his uncle and tries to frame his aunt (Kim Hunter), to obtain what is considered to be one of the most valuable art collections in the world.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s01e04.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Art critic Dale Kingston (Ross Martin) murders his uncle and tries to frame his aunt (Kim Hunter), to obtain what is considered to be one of the most valuable art collections in the world. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Missing pubdate -->
+			<title>Dead Weight</title>
+			<guid isPermaLink="false"><![CDATA[S01E03]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Major General Martin Hollister (Eddie Albert), a retired Marine Corps war hero, learns he is being investigated for embezzling military funds, then shoots his skittish accomplice (John Kerr). The act is partially witnessed by Helen Stewart (Suzanne Pleshette) from a passing boat, but Hollister woos her into doubting her own story. ]]></description>
+			<content:encoded><![CDATA[Major General Martin Hollister (Eddie Albert), a retired Marine Corps war hero, learns he is being investigated for embezzling military funds, then shoots his skittish accomplice (John Kerr). The act is partially witnessed by Helen Stewart (Suzanne Pleshette) from a passing boat, but Hollister woos her into doubting her own story.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s01e03.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Major General Martin Hollister (Eddie Albert), a retired Marine Corps war hero, learns he is being investigated for embezzling military funds, then shoots his skittish accomplice (John Kerr). The act is partially witnessed by Helen Stewart (Suzanne Pleshette) from a passing boat, but Hollister woos her into doubting her own story. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Invalid filesize -->
+			<title>Death Lends a Hand</title>
+			<pubDate>06 Oct 1971 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S01E02]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Private investigator Carl Brimmer (Robert Culp) is hired by Arthur Kennicut (Ray Milland), a powerful publishing magnate who suspects his wife of infidelity. Although Brimmer indeed finds evidence of the wife being unfaithful, he attempts to blackmail her into revealing secrets about her husband. She refuses and tells him she will expose his plot, at which point Brimmer accidentally kills her in a fit of rage. ]]></description>
+			<content:encoded><![CDATA[Private investigator Carl Brimmer (Robert Culp) is hired by Arthur Kennicut (Ray Milland), a powerful publishing magnate who suspects his wife of infidelity. Although Brimmer indeed finds evidence of the wife being unfaithful, he attempts to blackmail her into revealing secrets about her husband. She refuses and tells him she will expose his plot, at which point Brimmer accidentally kills her in a fit of rage.]]></content:encoded>
+			<enclosure length="xxx" type="audio/mpeg" url="https://libsyn.com/columbo/s01e02.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Private investigator Carl Brimmer (Robert Culp) is hired by Arthur Kennicut (Ray Milland), a powerful publishing magnate who suspects his wife of infidelity. Although Brimmer indeed finds evidence of the wife being unfaithful, he attempts to blackmail her into revealing secrets about her husband. She refuses and tells him she will expose his plot, at which point Brimmer accidentally kills her in a fit of rage. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Blank filesize -->
+			<title>Murder by the Book</title>
+			<pubDate>15 Sep 1971 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S01E01]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[ Ken Franklin (Jack Cassidy) is one-half of a mystery writing team, but partner Jim Ferris (Martin Milner) wants to go solo. This would expose the fact that Ferris did all the actual writing, and leave the high-living Franklin without his cash cow. Franklin tricks Ferris into taking a trip to his remote cabin two hours away. At the cabin, he convinces Ferris to call home and say he's working late at the office. During the call, Franklin shoots Ferris, then takes his body back north and dumps it on his lawn. ]]></description>
+			<content:encoded><![CDATA[Ken Franklin (Jack Cassidy) is one-half of a mystery writing team, but partner Jim Ferris (Martin Milner) wants to go solo. This would expose the fact that Ferris did all the actual writing, and leave the high-living Franklin without his cash cow. Franklin tricks Ferris into taking a trip to his remote cabin two hours away. At the cabin, he convinces Ferris to call home and say he's working late at the office. During the call, Franklin shoots Ferris, then takes his body back north and dumps it on his lawn.]]></content:encoded>
+			<enclosure length="" type="audio/mpeg" url="https://libsyn.com/columbo/s01e01.mp3" />
+			<itunes:duration>73:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Ken Franklin (Jack Cassidy) is one-half of a mystery writing team, but partner Jim Ferris (Martin Milner) wants to go solo. This would expose the fact that Ferris did all the actual writing, and leave the high-living Franklin without his cash cow. Franklin tricks Ferris into taking a trip to his remote cabin two hours away. At the cabin, he convinces Ferris to call home and say he's working late at the office. During the call, Franklin shoots Ferris, then takes his body back north and dumps it on his lawn. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Invalid duration -->
+			<title>Ransom for a Dead Man</title>
+			<pubDate>01 Mar 1971 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S00E02]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[Leslie Williams (Lee Grant), a brilliant lawyer and pilot, murders her husband Paul (Harlan Warde) to get his money, arranging the act to look as if he had been kidnapped and killed by his captors.]]></description>
+			<content:encoded><![CDATA[Leslie Williams (Lee Grant), a brilliant lawyer and pilot, murders her husband Paul (Harlan Warde) to get his money, arranging the act to look as if he had been kidnapped and killed by his captors.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s00e02.mp3" />
+			<itunes:duration>xxx</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[ Leslie Williams (Lee Grant), a brilliant lawyer and pilot, murders her husband Paul (Harlan Warde) to get his money, arranging the act to look as if he had been kidnapped and killed by his captors. ]]></itunes:subtitle>
+		</item>
+	    <item>
+            <!-- Missing duration -->
+			<title>Prescription: Murder</title>
+			<pubDate>20 Feb 1968 20:30:00 -0500</pubDate>
+			<guid isPermaLink="false"><![CDATA[S00E01]]></guid>
+			<link><![CDATA[http://www.columbopodcast.com]]></link>
+			<itunes:image href="http://www.columbopodcast.com/wp-content/uploads/powerpress/big-columbo.png" />
+			<description><![CDATA[Dr. Ray Fleming (Gene Barry), a psychiatrist, murders his wife (Nina Foch) and persuades his mistress Joan Hudson (Katherine Justice), who is an actress and one of his patients, to support his alibi by impersonating her.]]></description>
+			<content:encoded><![CDATA[Dr. Ray Fleming (Gene Barry), a psychiatrist, murders his wife (Nina Foch) and persuades his mistress Joan Hudson (Katherine Justice), who is an actress and one of his patients, to support his alibi by impersonating her.]]></content:encoded>
+			<enclosure length="82644860" type="audio/mpeg" url="https://libsyn.com/columbo/s00e01.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle><![CDATA[Dr. Ray Fleming (Gene Barry), a psychiatrist, murders his wife (Nina Foch) and persuades his mistress Joan Hudson (Katherine Justice), who is an actress and one of his patients, to support his alibi by impersonating her. ]]></itunes:subtitle>
+		</item>
+	</channel>
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

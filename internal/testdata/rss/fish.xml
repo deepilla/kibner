@@ -1,0 +1,382 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" version="2.0" xml:base="https://audioboom.com/">
+<!--
+
+      ****************************************************************
+      * Hi!  You're looking at an RSS feed.  If you're not sure what *
+      * to do here, you can visit our help center to find out more:  *
+      *                http://support.audioboom.com                  *
+      ****************************************************************
+
+-->
+<channel>
+<title>No Such Thing As A Fish</title>
+<description>A podcast from the QI offices in which the writers of the hit BBC show huddle around a microphone and discuss the best things they've found out this week. Hosted by Dan Schreiber (@schreiberland).</description>
+<link>https://audioboom.com/channel/nosuchthingasafish</link>
+<atom:link href="https://audioboom.com/channels/2399216.rss" rel="self" type="application/rss+xml" />
+<pubDate>Fri, 06 Oct 2017 17:00:00 +0000</pubDate>
+<language>en-us</language>
+<itunes:image  href="https://d15mj6e6qmt1na.cloudfront.net/i/24025650.jpg" />
+<itunes:category text="Comedy"></itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<itunes:summary>A podcast from the QI offices in which the writers of the hit BBC show huddle around a microphone and discuss the best things they've found out this week. Hosted by Dan Schreiber (@schreiberland).</itunes:summary>
+<itunes:author>audioBoom</itunes:author>
+<itunes:owner>
+  <itunes:name>audioBoom</itunes:name>
+  <itunes:email>rss@audioboom.com</itunes:email>
+</itunes:owner>
+  <itunes:type>episodic</itunes:type>
+
+<item>
+  <title>Episode 185: No Such Thing As Scottish Snow</title>
+  <link>https://audioboom.com/posts/6369996-episode-185-no-such-thing-as-scottish-snow</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/30348854.jpg" />
+  <itunes:duration>2980</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Andy, Anna, James and special guest Cariad Lloyd discuss Unity Mitford's BFFs, how planes (don't) cure deafness, and why you shouldn't eat Scottish show.</description>
+    <itunes:subtitle>Andy, Anna, James and special guest Cariad Lloyd discuss Unity Mitford's BFFs, how planes (don't) cure deafness, and why you shouldn't eat Scottish show.</itunes:subtitle>
+    <itunes:summary>Andy, Anna, James and special guest Cariad Lloyd discuss Unity Mitford's BFFs, how planes (don't) cure deafness, and why you shouldn't eat Scottish show.</itunes:summary>
+  <pubDate>Fri, 06 Oct 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-10-06:/posts/6369996</guid>
+    <enclosure url="https://audioboom.com/posts/6369996-episode-185-no-such-thing-as-scottish-snow.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6369996-episode-185-no-such-thing-as-scottish-snow.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2980" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/30348854.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 184: No Such Thing As Dinosaur Diaries</title>
+  <link>https://audioboom.com/posts/6347716-episode-184-no-such-thing-as-dinosaur-diaries</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/30247820.jpg" />
+  <itunes:duration>2529</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss snakes that eat snakes, mathematical street performers, and the celebrity most likely to give you a virus.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss snakes that eat snakes, mathematical street performers, and the celebrity most likely to give you a virus.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss snakes that eat snakes, mathematical street performers, and the celebrity most likely to give you a virus.</itunes:summary>
+  <pubDate>Fri, 29 Sep 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-09-29:/posts/6347716</guid>
+    <enclosure url="https://audioboom.com/posts/6347716-episode-184-no-such-thing-as-dinosaur-diaries.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6347716-episode-184-no-such-thing-as-dinosaur-diaries.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2529" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/30247820.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 183: No Such Thing As A Bouncy Theatre</title>
+  <link>https://audioboom.com/posts/6325482-episode-183-no-such-thing-as-a-bouncy-theatre</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/30149269.jpg" />
+  <itunes:duration>2021</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Andy and Alex discuss how to drive a submarine, Gainsborough's 6-foot-long paintbrushes, and where 1% of all the world's wood goes.</description>
+    <itunes:subtitle>Dan, James, Andy and Alex discuss how to drive a submarine, Gainsborough's 6-foot-long paintbrushes, and where 1% of all the world's wood goes.</itunes:subtitle>
+    <itunes:summary>Dan, James, Andy and Alex discuss how to drive a submarine, Gainsborough's 6-foot-long paintbrushes, and where 1% of all the world's wood goes.</itunes:summary>
+  <pubDate>Fri, 22 Sep 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-09-22:/posts/6325482</guid>
+    <enclosure url="https://audioboom.com/posts/6325482-episode-183-no-such-thing-as-a-bouncy-theatre.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6325482-episode-183-no-such-thing-as-a-bouncy-theatre.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2021" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/30149269.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 182: No Such Thing As An Auction For Auction School</title>
+  <link>https://audioboom.com/posts/6304535-episode-182-no-such-thing-as-an-auction-for-auction-school</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/30058120.jpg" />
+  <itunes:duration>2010</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, Anna, Andy and special guest Jason Hazeley discuss the British Lawnmover Museum, questionnaires for narcissists, how Christie's auctioneers get over their nerves.</description>
+    <itunes:subtitle>Dan, Anna, Andy and special guest Jason Hazeley discuss the British Lawnmover Museum, questionnaires for narcissists, how Christie's auctioneers get over their nerves.</itunes:subtitle>
+    <itunes:summary>Dan, Anna, Andy and special guest Jason Hazeley discuss the British Lawnmover Museum, questionnaires for narcissists, how Christie's auctioneers get over their nerves.</itunes:summary>
+  <pubDate>Fri, 15 Sep 2017 17:00:01 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-09-15:/posts/6304535</guid>
+    <enclosure url="https://audioboom.com/posts/6304535-episode-182-no-such-thing-as-an-auction-for-auction-school.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6304535-episode-182-no-such-thing-as-an-auction-for-auction-school.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2010" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/30058120.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 181: No Such Thing As A Shark Vending Machine</title>
+  <link>https://audioboom.com/posts/6282479-episode-181-no-such-thing-as-a-shark-vending-machine</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29958647.png" />
+  <itunes:duration>2192</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, Anna, Andy and Alex discuss Spielberg's Great White Turd, maverick train carriages and how bird always know when they're in Aberdeen.</description>
+    <itunes:subtitle>Dan, Anna, Andy and Alex discuss Spielberg's Great White Turd, maverick train carriages and how bird always know when they're in Aberdeen.</itunes:subtitle>
+    <itunes:summary>Dan, Anna, Andy and Alex discuss Spielberg's Great White Turd, maverick train carriages and how bird always know when they're in Aberdeen.</itunes:summary>
+  <pubDate>Fri, 08 Sep 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-09-08:/posts/6282479</guid>
+    <enclosure url="https://audioboom.com/posts/6282479-episode-181-no-such-thing-as-a-shark-vending-machine.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6282479-episode-181-no-such-thing-as-a-shark-vending-machine.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2192" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29958647.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 180: No Such Thing As Playing Snake On A Plane</title>
+  <link>https://audioboom.com/posts/6261446-episode-180-no-such-thing-as-playing-snake-on-a-plane</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29867440.jpg" />
+  <itunes:duration>2025</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Anne discuss Hitler's Beatles cameo, how lobsters fly, and the most surprising place to find John Goodman.</description>
+    <itunes:subtitle>Dan, James, Anna and Anne discuss Hitler's Beatles cameo, how lobsters fly, and the most surprising place to find John Goodman.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Anne discuss Hitler's Beatles cameo, how lobsters fly, and the most surprising place to find John Goodman.</itunes:summary>
+  <pubDate>Fri, 01 Sep 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-09-01:/posts/6261446</guid>
+    <enclosure url="https://audioboom.com/posts/6261446-episode-180-no-such-thing-as-playing-snake-on-a-plane.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6261446-episode-180-no-such-thing-as-playing-snake-on-a-plane.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2025" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29867440.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 179: No Such Thing As Stare-Boxing</title>
+  <link>https://audioboom.com/posts/6235486-episode-179-no-such-thing-as-stare-boxing</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29753362.png" />
+  <itunes:duration>1996</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Alex discuss mail-order portraits, the first ever Encyclopaedia Britannica, and the country with only five star hotels.</description>
+    <itunes:subtitle>Dan, James, Anna and Alex discuss mail-order portraits, the first ever Encyclopaedia Britannica, and the country with only five star hotels.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Alex discuss mail-order portraits, the first ever Encyclopaedia Britannica, and the country with only five star hotels.</itunes:summary>
+  <pubDate>Fri, 25 Aug 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-08-25:/posts/6235486</guid>
+    <enclosure url="https://audioboom.com/posts/6235486-episode-179-no-such-thing-as-stare-boxing.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6235486-episode-179-no-such-thing-as-stare-boxing.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="1996" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29753362.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 178: No Such Thing As A Cup Full Of Nessie</title>
+  <link>https://audioboom.com/posts/6217231-episode-178-no-such-thing-as-a-cup-full-of-nessie</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29671546.jpg" />
+  <itunes:duration>2657</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss your amazing expanding liver, the land of ex-presidents, and scientists disguised as mooses...or is that meese?</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss your amazing expanding liver, the land of ex-presidents, and scientists disguised as mooses...or is that meese?</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss your amazing expanding liver, the land of ex-presidents, and scientists disguised as mooses...or is that meese?</itunes:summary>
+  <pubDate>Fri, 18 Aug 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-08-18:/posts/6217231</guid>
+    <enclosure url="https://audioboom.com/posts/6217231-episode-178-no-such-thing-as-a-cup-full-of-nessie.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6217231-episode-178-no-such-thing-as-a-cup-full-of-nessie.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2657" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29671546.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 177: No Such Thing As A Barking Spy</title>
+  <link>https://audioboom.com/posts/6191301-episode-177-no-such-thing-as-a-barking-spy</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29554354.png" />
+  <itunes:duration>2597</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Live from the Wilderness Festival, Dan, James, Anna and Andy discuss the invention of crowd barriers, bombs that lecture their victims, and Volkswagen's biggest product [hint: it's not cars].</description>
+    <itunes:subtitle>Live from the Wilderness Festival, Dan, James, Anna and Andy discuss the invention of crowd barriers, bombs that lecture their victims, and Volkswagen's biggest product [hint: it's not cars].</itunes:subtitle>
+    <itunes:summary>Live from the Wilderness Festival, Dan, James, Anna and Andy discuss the invention of crowd barriers, bombs that lecture their victims, and Volkswagen's biggest product [hint: it's not cars].</itunes:summary>
+  <pubDate>Fri, 11 Aug 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-08-11:/posts/6191301</guid>
+    <enclosure url="https://audioboom.com/posts/6191301-episode-177-no-such-thing-as-a-barking-spy.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6191301-episode-177-no-such-thing-as-a-barking-spy.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2597" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29554354.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 176: No Such Thing As A Communist Caterpillar</title>
+  <link>https://audioboom.com/posts/6173105-episode-176-no-such-thing-as-a-communist-caterpillar</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29472284.png" />
+  <itunes:duration>2445</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss vomiting caterpillars, quarantined chocolate, and Russian news that's literally stored in the cloud.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss vomiting caterpillars, quarantined chocolate, and Russian news that's literally stored in the cloud.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss vomiting caterpillars, quarantined chocolate, and Russian news that's literally stored in the cloud.</itunes:summary>
+  <pubDate>Fri, 04 Aug 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-08-04:/posts/6173105</guid>
+    <enclosure url="https://audioboom.com/posts/6173105-episode-176-no-such-thing-as-a-communist-caterpillar.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6173105-episode-176-no-such-thing-as-a-communist-caterpillar.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2445" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29472284.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 175: No Such Thing As A Rice Krispie With Feelings</title>
+  <link>https://audioboom.com/posts/6150593-episode-175-no-such-thing-as-a-rice-krispie-with-feelings</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29372062.jpg" />
+  <itunes:duration>2819</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss expert plastic sushi artists, the world's first bendy straws, and how fake dog noses help detect bombs.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss expert plastic sushi artists, the world's first bendy straws, and how fake dog noses help detect bombs.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss expert plastic sushi artists, the world's first bendy straws, and how fake dog noses help detect bombs.</itunes:summary>
+  <pubDate>Fri, 28 Jul 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-07-28:/posts/6150593</guid>
+    <enclosure url="https://audioboom.com/posts/6150593-episode-175-no-such-thing-as-a-rice-krispie-with-feelings.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6150593-episode-175-no-such-thing-as-a-rice-krispie-with-feelings.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2819" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29372062.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 174: No Such Thing As A Manta Ray</title>
+  <link>https://audioboom.com/posts/6128314-episode-174-no-such-thing-as-a-manta-ray</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29273286.png" />
+  <itunes:duration>2712</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss competitive tongue injuring, the popemobile for hire and Bogotan traffic mimes.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss competitive tongue injuring, the popemobile for hire and Bogotan traffic mimes.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss competitive tongue injuring, the popemobile for hire and Bogotan traffic mimes.</itunes:summary>
+  <pubDate>Fri, 21 Jul 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-07-21:/posts/6128314</guid>
+    <enclosure url="https://audioboom.com/posts/6128314-episode-174-no-such-thing-as-a-manta-ray.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6128314-episode-174-no-such-thing-as-a-manta-ray.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2712" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29273286.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 173: No Such Thing As Symphony For Sizzurp In D Minor</title>
+  <link>https://audioboom.com/posts/6107603-episode-173-no-such-thing-as-symphony-for-sizzurp-in-d-minor</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29180852.png" />
+  <itunes:duration>2687</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss weather-forecasting rainbows, Mexico's artistic tax policy and the mandatory Big Book of Tennis Rules.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss weather-forecasting rainbows, Mexico's artistic tax policy and the mandatory Big Book of Tennis Rules.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss weather-forecasting rainbows, Mexico's artistic tax policy and the mandatory Big Book of Tennis Rules.</itunes:summary>
+  <pubDate>Fri, 14 Jul 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-07-14:/posts/6107603</guid>
+    <enclosure url="https://audioboom.com/posts/6107603-episode-173-no-such-thing-as-symphony-for-sizzurp-in-d-minor.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6107603-episode-173-no-such-thing-as-symphony-for-sizzurp-in-d-minor.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2687" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29180852.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 172: No Such Thing As A Cat-a-Cops Cartoon</title>
+  <link>https://audioboom.com/posts/6084820-episode-172-no-such-thing-as-a-cat-a-cops-cartoon</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/29083129.jpg" />
+  <itunes:duration>3216</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss the police force for dead people, Indonesia's KFC CDs and Chinese mistress-dispellers.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss the police force for dead people, Indonesia's KFC CDs and Chinese mistress-dispellers.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss the police force for dead people, Indonesia's KFC CDs and Chinese mistress-dispellers.</itunes:summary>
+  <pubDate>Fri, 07 Jul 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-07-07:/posts/6084820</guid>
+    <enclosure url="https://audioboom.com/posts/6084820-episode-172-no-such-thing-as-a-cat-a-cops-cartoon.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6084820-episode-172-no-such-thing-as-a-cat-a-cops-cartoon.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="3216" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/29083129.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 171: No Such Thing As A Half-Ape Vampire</title>
+  <link>https://audioboom.com/posts/6062202-episode-171-no-such-thing-as-a-half-ape-vampire</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/28977357.png" />
+  <itunes:duration>2529</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Dan, James, Anna and Andy discuss the man behind human chess, Agatha Christie's untranslatable book and deceitful camemberts.</description>
+    <itunes:subtitle>Dan, James, Anna and Andy discuss the man behind human chess, Agatha Christie's untranslatable book and deceitful camemberts.</itunes:subtitle>
+    <itunes:summary>Dan, James, Anna and Andy discuss the man behind human chess, Agatha Christie's untranslatable book and deceitful camemberts.</itunes:summary>
+  <pubDate>Fri, 30 Jun 2017 17:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-06-30:/posts/6062202</guid>
+    <enclosure url="https://audioboom.com/posts/6062202-episode-171-no-such-thing-as-a-half-ape-vampire.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6062202-episode-171-no-such-thing-as-a-half-ape-vampire.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2529" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/28977357.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 170: No Such Thing As A Love Potion For A Vole</title>
+  <link>https://audioboom.com/posts/6045291-episode-170-no-such-thing-as-a-love-potion-for-a-vole</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/28993923.png" />
+  <itunes:duration>2640</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>Anna, James, Andy and Alex discuss stinking ice, smart seeds and the world's greatest fly swatters.</description>
+    <itunes:subtitle>Anna, James, Andy and Alex discuss stinking ice, smart seeds and the world's greatest fly swatters.</itunes:subtitle>
+    <itunes:summary>Anna, James, Andy and Alex discuss stinking ice, smart seeds and the world's greatest fly swatters.</itunes:summary>
+  <pubDate>Fri, 23 Jun 2017 17:30:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2017-06-23:/posts/6045291</guid>
+    <enclosure url="https://audioboom.com/posts/6045291-episode-170-no-such-thing-as-a-love-potion-for-a-vole.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/6045291-episode-170-no-such-thing-as-a-love-potion-for-a-vole.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2640" lang="en-US" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/28993923.png" type="image/png" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Episode 1: No Such Thing As A Pilot Fish</title>
+  <link>https://audioboom.com/posts/4960884-episode-1-no-such-thing-as-a-pilot-fish</link>
+  <itunes:author>audioBoom</itunes:author>
+    <itunes:image href="https://d15mj6e6qmt1na.cloudfront.net/i/23856856.jpg" />
+  <itunes:duration>2070</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords></itunes:keywords>
+    <description>A new podcast from the writers of QI, who discuss the best facts they've found that week. The pilot episode features Dan Schreiber (@schreiberland), James Harkin (@eggshaped), Anna Ptaszynski (@qikipedia) &amp; Andrew Hunter Murray (@andrewhunterm)
+
+For more check out www.qi.com/podcast
+</description>
+    <itunes:subtitle>A new podcast from the writers of QI, who discuss the best facts they've found that week. The pilot episode features Dan Schreiber (@schreiberland), James Harkin (@eggshaped), Anna Ptaszynski (@qikipedia) &amp; Andrew Hunter Murray (@andrewhunterm)
+
+For mo...</itunes:subtitle>
+    <itunes:summary>A new podcast from the writers of QI, who discuss the best facts they've found that week. The pilot episode features Dan Schreiber (@schreiberland), James Harkin (@eggshaped), Anna Ptaszynski (@qikipedia) &amp; Andrew Hunter Murray (@andrewhunterm)
+
+For more check out www.qi.com/podcast
+</itunes:summary>
+  <pubDate>Sat, 08 Mar 2014 00:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:soundcloud,2010:tracks/138526614</guid>
+    <enclosure url="https://audioboom.com/posts/4960884-episode-1-no-such-thing-as-a-pilot-fish.mp3?source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <dc:creator>audioBoom</dc:creator>
+    <media:content url="https://audioboom.com/posts/4960884-episode-1-no-such-thing-as-a-pilot-fish.mp3?source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="2070" />
+    <media:content url="https://d15mj6e6qmt1na.cloudfront.net/i/23856856.jpg" type="image/jpg" medium="image" />
+  <media:keywords></media:keywords>
+  <media:rights status="userCreated" />
+</item>
+
+
+</channel>
+</rss>

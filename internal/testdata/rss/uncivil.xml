@@ -1,0 +1,77 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/uncivil" rel="self" type="application/rss+xml"/>
+    <title>Uncivil</title>
+    <link>http://uncivil.show</link>
+    <language>en</language>
+    <copyright></copyright>
+    <description>America is divided, and it always has been. We're going back to the moment when that split turned into war. This is Uncivil: Gimlet Media's new history podcast, hosted by journalists Jack Hitt and Chenjerai Kumanyika. We ransack the official version of the Civil War, and take on the history you grew up with. We bring you untold stories about covert operations, corruption, resistance, mutiny, counterfeiting, antebellum drones, and so much more. And we connect these forgotten struggles to the political battlefield we’re living on right now.
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>A new history podcast from Gimlet Media, where we go back to the time our divisions led to war. We ransack America's past, and bring you stories left out of the official history. Hosted by Jack Hitt and Chenjerai Kumanyika.</itunes:subtitle>
+    <itunes:author>Gimlet</itunes:author>
+    <itunes:summary>America is divided, and it always has been. We're going back to the moment when that split turned into war. This is Uncivil: Gimlet Media's new history podcast, hosted by journalists Jack Hitt and Chenjerai Kumanyika. We ransack the official version of the Civil War, and take on the history you grew up with. We bring you untold stories about covert operations, corruption, resistance, mutiny, counterfeiting, antebellum drones, and so much more. And we connect these forgotten struggles to the political battlefield we’re living on right now.
+</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Gimlet</itunes:name>
+      <itunes:email>admin@gimletmedia.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://static.megaphone.fm/podcasts/60cff344-5135-11e7-a8cc-e3b7831c52a1/image/uploads_2F1506371489244-7tntk0du7bx-60a7278c8262d8209c89a0de0fca6fef_2Funcivil_show_art_season1.png"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History"/>
+    </itunes:category>
+    <itunes:category text="News &amp; Politics">
+    </itunes:category>
+    <itunes:category text="Education">
+    </itunes:category>
+    <item>
+      <title>The Raid</title>
+      <description>A group of ex-farmers, a terrorist from Kansas, and a schoolteacher attempt the greatest covert operation of the Civil War.</description>
+      <pubDate>Wed, 04 Oct 2017 10:00:00 -0000</pubDate>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>A group of ex-farmers, a terrorist from Kansas, and a schoolteacher attempt the greatest covert operation of the Civil War.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[A group of ex-farmers, a terrorist from Kansas, and a schoolteacher attempt the greatest covert operation of the Civil War.]]>
+      </itunes:summary>
+      <itunes:duration>1474</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6d592f74-9409-11e7-b285-f76a850c5be4]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT6754684783.mp3" length="35388186" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Give Us a Call</title>
+      <description>We want to hear from you! Do you have a family story from the Civil War? A myth you've seen on social media you want busted? Let us know!&amp;nbsp;&lt;br&gt;&lt;br&gt;Call 347-395-5078 and leave us a voicemail with your name, story, and the best way to reach you.</description>
+      <pubDate>Wed, 20 Sep 2017 15:46:39 -0000</pubDate>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>We want to hear from you! Do you have a family story from the Civil War? A myth you've seen on social media you want busted? Let us know! Call 347-395-5078 and leave us a voicemail.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[We want to hear from you! Do you have a family story from the Civil War? A myth you've seen on social media you want busted? Let us know!&nbsp;<br><br>Call 347-395-5078 and leave us a voicemail with your name, story, and the best way to reach you.]]>
+      </itunes:summary>
+      <itunes:duration>93</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[9ec7ea3a-9e1a-11e7-9005-7b27fae7db0f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT8145162015.mp3" length="2251337" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Coming Soon</title>
+      <description>America is divided, and it always has been. We're going back to the moment when that split turned into war. This is Uncivil: Gimlet Media's new history podcast, hosted by journalists Jack Hitt and Chenjerai Kumanyika. We ransack the official version of the Civil War, and take on the history you grew up with. We bring you untold stories about covert operations, corruption, resistance, mutiny, counterfeiting, antebellum drones, and so much more. And we connect these forgotten struggles to the political battlefield we’re living on right now.&lt;br&gt;&lt;br&gt;For early access, check out &lt;a href="http://uncivil.show?utm_source=Uncivil&amp;amp;utm_medium=podcast&amp;amp;utm_campaign=UncivilTrailer&amp;amp;utm_content=uc-shownotes"&gt;uncivil.show&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+      <pubDate>Thu, 24 Aug 2017 10:44:00 -0000</pubDate>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:subtitle>A new history podcast from Gimlet Media, where we go back to the time our divisions turned into a war, and bring you stories left out of the official history. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[America is divided, and it always has been. We're going back to the moment when that split turned into war. This is Uncivil: Gimlet Media's new history podcast, hosted by journalists Jack Hitt and Chenjerai Kumanyika. We ransack the official version of the Civil War, and take on the history you grew up with. We bring you untold stories about covert operations, corruption, resistance, mutiny, counterfeiting, antebellum drones, and so much more. And we connect these forgotten struggles to the political battlefield we’re living on right now.<br><br>For early access, check out <a href="http://uncivil.show?utm_source=Uncivil&amp;utm_medium=podcast&amp;utm_campaign=UncivilTrailer&amp;utm_content=uc-shownotes">uncivil.show</a><br><br><br><br><br><br>]]>
+      </itunes:summary>
+      <itunes:duration>132</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[95ddd8b2-88da-11e7-bf3d-3ff6bef2d7c4]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT7465151929.mp3" length="3179206" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
