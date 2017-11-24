@@ -33,85 +33,85 @@ type testCase struct {
 
 var allTestCases = map[string]*testCase{
 
-	"Constitutional": &testCase{
+	"Constitutional": {
 		Filename: "constitutional.xml",
 		NewFeed:  testdata.Constitutional,
 	},
-	"Crooked Conversations": &testCase{
+	"Crooked Conversations": {
 		Filename: "crooked-conversations.xml",
 		NewFeed:  testdata.Crooked,
 	},
-	"Ear Hustle": &testCase{
+	"Ear Hustle": {
 		Filename: "ear-hustle.xml",
 		NewFeed:  testdata.EarHustle,
 	},
-	"Gadget Lab": &testCase{
+	"Gadget Lab": {
 		Filename: "gadget-lab.xml",
 		NewFeed:  testdata.GadgetLab,
 	},
-	"Homecoming": &testCase{
+	"Homecoming": {
 		Filename: "homecoming.xml",
 		NewFeed:  testdata.Homecoming,
 	},
-	"Mogul": &testCase{
+	"Mogul": {
 		Filename: "mogul.xml",
 		NewFeed:  testdata.Mogul,
 	},
-	"No Such Thing As A Fish": &testCase{
+	"No Such Thing As A Fish": {
 		Filename: "fish.xml",
 		NewFeed:  testdata.Fish,
 	},
-	"Rabbits": &testCase{
+	"Rabbits": {
 		Filename: "rabbits.xml",
 		NewFeed:  testdata.Rabbits,
 	},
-	"Revisionist History": &testCase{
+	"Revisionist History": {
 		Filename: "revisionist-history.xml",
 		NewFeed:  testdata.RevisionistHistory,
 	},
-	"Rework": &testCase{
+	"Rework": {
 		Filename: "rework.xml",
 		NewFeed:  testdata.Rework,
 	},
-	"S-Town": &testCase{
+	"S-Town": {
 		Filename: "s-town.xml",
 		NewFeed:  testdata.STown,
 	},
-	"Serial": &testCase{
+	"Serial": {
 		Filename: "serial.xml",
 		NewFeed:  testdata.Serial,
 	},
-	"The Turnaround": &testCase{
+	"The Turnaround": {
 		Filename: "turnaround.xml",
 		NewFeed:  testdata.Turnaround,
 	},
-	"Uncivil": &testCase{
+	"Uncivil": {
 		Filename: "uncivil.xml",
 		NewFeed:  testdata.Uncivil,
 	},
-	"What's Good": &testCase{
+	"What's Good": {
 		Filename: "whats-good.xml",
 		NewFeed:  testdata.WhatsGood,
 	},
-	"Why We Eat": &testCase{
+	"Why We Eat": {
 		Filename: "why-we-eat.xml",
 		NewFeed:  testdata.WhyWeEat,
 	},
-	"Why We Eat 2": &testCase{
+	"Why We Eat 2": {
 		Filename: "why-we-eat-2.xml",
 		NewFeed:  testdata.WhyWeEat2,
 	},
 
-	"Columbo": &testCase{
+	"Columbo": {
 		Filename: "columbo.xml",
 		NewFeed:  testdata.Columbo,
 	},
 
-	"Empty Feed": &testCase{
+	"Empty Feed": {
 		Filename: "test-feed-empty.xml",
 		NewFeed:  testdata.EmptyFeed,
 	},
-	"Minimal Feed": &testCase{
+	"Minimal Feed": {
 		Filename: "test-feed-minimal.xml",
 		NewFeed:  testdata.MinimalFeed,
 	},
@@ -944,21 +944,21 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Pubdate DESC",
 			Opts: []listFeedOptions{
-				listFeedOptions{},
-				listFeedOptions{
+				{},
+				{
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortOrder: sortOrderDesc,
 				},
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByPubdate,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByPubdate,
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByPubdate,
 					SortOrder: sortOrderDesc,
 				},
@@ -970,10 +970,10 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Pubdate ASC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortOrder: sortOrderAsc,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByPubdate,
 					SortOrder: sortOrderAsc,
 				},
@@ -985,7 +985,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Top 5 Feeds By Pubdate",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByPubdate,
 					Limit:  5,
 				},
@@ -998,7 +998,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Bottom 5 Feeds By Pubdate",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByPubdate,
 					SortOrder: sortOrderAsc,
 					Limit:     5,
@@ -1012,14 +1012,14 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Title ASC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTitle,
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTitle,
 					SortOrder: sortOrderAsc,
 				},
@@ -1031,7 +1031,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Title DESC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTitle,
 					SortOrder: sortOrderDesc,
 				},
@@ -1043,14 +1043,14 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Item Count DESC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByItemCount,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByItemCount,
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByItemCount,
 					SortOrder: sortOrderDesc,
 				},
@@ -1062,7 +1062,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Item Count ASC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByItemCount,
 					SortOrder: sortOrderAsc,
 				},
@@ -1074,14 +1074,14 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Unplayed Count DESC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByUnplayedCount,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByUnplayedCount,
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByUnplayedCount,
 					SortOrder: sortOrderDesc,
 				},
@@ -1093,7 +1093,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Unplayed Count ASC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByUnplayedCount,
 					SortOrder: sortOrderAsc,
 				},
@@ -1105,14 +1105,14 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Timestamp DESC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTimestamp,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTimestamp,
 					SortOrder: sortOrderDefault,
 				},
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTimestamp,
 					SortOrder: sortOrderDesc,
 				},
@@ -1124,7 +1124,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds By Timestamp ASC",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy:    sortFeedsByTimestamp,
 					SortOrder: sortOrderAsc,
 				},
@@ -1136,7 +1136,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Author 'Gimlet'",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Author: "Gimlet",
 				},
@@ -1149,7 +1149,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Author 'Gladwell'",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Author: "Gladwell",
 				},
@@ -1162,7 +1162,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Nonsense Author",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Author: "xxxxxxxxxxxxx",
 				},
@@ -1175,7 +1175,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Title 'The'",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Title:  "The",
 				},
@@ -1188,7 +1188,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Title 'Fish'",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Title:  "Fish",
 				},
@@ -1201,7 +1201,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Feeds With Nonsense Title",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Title:  "xxxxxxxxxxxxxxxx",
 				},
@@ -1214,7 +1214,7 @@ func testListFeeds(t *testing.T, db *sql.DB) {
 		{
 			Name: "Top 3 Feeds With Author 'Gimlet' And Title 'Serial",
 			Opts: []listFeedOptions{
-				listFeedOptions{
+				{
 					SortBy: sortFeedsByTitle,
 					Author: "Gimlet",
 					Title:  "Serial",
@@ -2163,7 +2163,7 @@ func testUpdateFeedNoValues(t *testing.T, db *sql.DB) {
 
 	data := []map[string]interface{}{
 		nil,
-		map[string]interface{}{},
+		{},
 	}
 
 	exp := errors.New("no values provided")
