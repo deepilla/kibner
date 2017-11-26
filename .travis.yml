@@ -1,0 +1,11 @@
+language: go
+
+services:
+  - sqlite3
+
+go:
+  - tip
+  - 1.9
+  - 1.8
+  - 1.7
+  - 1.6
